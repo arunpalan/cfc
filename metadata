@@ -49,7 +49,7 @@
         {
           "name": "Alabama",
           "abbreviation": "BAMA",
-          "prestige": "94",
+          "prestige": "95",
           "hexColor": "9E1B32",
           "state": "Alabama",
           "rival": "AUB",
@@ -74,7 +74,7 @@
         {
           "name": "Georgia",
           "abbreviation": "UGA",
-          "prestige": "84",
+          "prestige": "89",
           "hexColor": "BA0C2F",
           "state": "Georgia",
           "rival": "UF",
@@ -99,7 +99,7 @@
         {
           "name": "Florida",
           "abbreviation": "UF",
-          "prestige": "84",
+          "prestige": "88",
           "hexColor": "0021A5",
           "state": "Florida",
           "rival": "UGA",
@@ -124,7 +124,7 @@
         {
           "name": "Tennessee",
           "abbreviation": "TENN",
-          "prestige": "68",
+          "prestige": "83",
           "hexColor": "FF8200",
           "state": "Tennessee",
           "rival": "MSST",
@@ -149,7 +149,7 @@
         {
           "name": "LSU",
           "abbreviation": "LSU",
-          "prestige": "81",
+          "prestige": "85",
           "hexColor": "461D7C",
           "state": "Louisiana",
           "rival": "TAMU",
@@ -174,7 +174,7 @@
         {
           "name": "Kentucky",
           "abbreviation": "UK",
-          "prestige": "74",
+          "prestige": "68",
           "hexColor": "0033A0",
           "state": "Kentucky",
           "rival": "MIZZ",
@@ -199,7 +199,7 @@
         {
           "name": "Missouri",
           "abbreviation": "MIZZ",
-          "prestige": "68",
+          "prestige": "72",
           "hexColor": "000000",
           "state": "Missouri",
           "rival": "UK",
@@ -224,7 +224,7 @@
         {
           "name": "Mississippi State",
           "abbreviation": "MSST",
-          "prestige": "75",
+          "prestige": "69",
           "hexColor": "660000",
           "state": "Mississippi",
           "rival": "TENN",
@@ -249,7 +249,7 @@
         {
           "name": "Auburn",
           "abbreviation": "AUB",
-          "prestige": "72",
+          "prestige": "79",
           "hexColor": "0C2340",
           "state": "Alabama",
           "rival": "BAMA",
@@ -274,7 +274,7 @@
         {
           "name": "Texas A&M",
           "abbreviation": "TAMU",
-          "prestige": "76",
+          "prestige": "83",
           "hexColor": "500000",
           "state": "Texas",
           "rival": "LSU",
@@ -307,7 +307,7 @@
         {
           "name": "Michigan",
           "abbreviation": "UM",
-          "prestige": "79",
+          "prestige": "84",
           "hexColor": "00274C",
           "state": "Michigan",
           "rival": "MSU",
@@ -332,7 +332,7 @@
         {
           "name": "Ohio State",
           "abbreviation": "OSU",
-          "prestige": "86",
+          "prestige": "91",
           "hexColor": "BB0000",
           "state": "Ohio",
           "rival": "PSU",
@@ -357,7 +357,7 @@
         {
           "name": "Michigan State",
           "abbreviation": "MSU",
-          "prestige": "76",
+          "prestige": "77",
           "hexColor": "18453B",
           "state": "Michigan",
           "rival": "UM",
@@ -407,7 +407,7 @@
         {
           "name": "Wisconsin",
           "abbreviation": "WIS",
-          "prestige": "77",
+          "prestige": "82",
           "hexColor": "C5050C",
           "state": "Wisconsin",
           "rival": "MINN",
@@ -432,7 +432,7 @@
         {
           "name": "Minnesota",
           "abbreviation": "MINN",
-          "prestige": "78",
+          "prestige": "76",
           "hexColor": "7A0019",
           "state": "Minnesota",
           "rival": "WIS",
@@ -457,7 +457,7 @@
         {
           "name": "Iowa",
           "abbreviation": "IOWA",
-          "prestige": "81",
+          "prestige": "78",
           "hexColor": "FFCD00",
           "state": "Iowa",
           "rival": "NEB",
@@ -482,7 +482,7 @@
         {
           "name": "Nebraska",
           "abbreviation": "NEB",
-          "prestige": "68",
+          "prestige": "69",
           "hexColor": "E41C38",
           "state": "Nebraska",
           "rival": "IOWA",
@@ -507,7 +507,7 @@
         {
           "name": "Purdue",
           "abbreviation": "PUR",
-          "prestige": "69",
+          "prestige": "68",
           "hexColor": "CEB888",
           "state": "Indiana",
           "rival": "NW",
@@ -532,7 +532,7 @@
         {
           "name": "Northwestern",
           "abbreviation": "NW",
-          "prestige": "81",
+          "prestige": "75",
           "hexColor": "4E2A84",
           "state": "Illinois",
           "rival": "PUR",
@@ -565,7 +565,7 @@
         {
           "name": "Oklahoma",
           "abbreviation": "OU",
-          "prestige": "86",
+          "prestige": "88",
           "hexColor": "841617",
           "state": "Oklahoma",
           "rival": "UT",
@@ -590,7 +590,7 @@
         {
           "name": "Texas",
           "abbreviation": "UT",
-          "prestige": "80",
+          "prestige": "84",
           "hexColor": "BF5700",
           "state": "Texas",
           "rival": "OU",
@@ -640,7 +640,7 @@
         {
           "name": "Texas Christian",
           "abbreviation": "TCU",
-          "prestige": "79",
+          "prestige": "77",
           "hexColor": "4D1979",
           "state": "Texas",
           "rival": "BAYL",
@@ -665,7 +665,7 @@
         {
           "name": "Baylor",
           "abbreviation": "BAYL",
-          "prestige": "77",
+          "prestige": "75",
           "hexColor": "003015",
           "state": "Texas",
           "rival": "TCU",
@@ -690,7 +690,7 @@
         {
           "name": "Iowa State",
           "abbreviation": "ISU",
-          "prestige": "77",
+          "prestige": "70",
           "hexColor": "C8102E",
           "state": "Iowa",
           "rival": "TTU",
@@ -740,7 +740,7 @@
         {
           "name": "Oklahoma State",
           "abbreviation": "OKST",
-          "prestige": "74",
+          "prestige": "76",
           "hexColor": "FF7300",
           "state": "Oklahoma",
           "rival": "WVU",
@@ -765,7 +765,7 @@
         {
           "name": "Kansas State",
           "abbreviation": "KSU",
-          "prestige": "66",
+          "prestige": "68",
           "hexColor": "512888",
           "state": "Kansas",
           "rival": "KU",
@@ -823,7 +823,7 @@
         {
           "name": "Clemson",
           "abbreviation": "CLEM",
-          "prestige": "95",
+          "prestige": "94",
           "hexColor": "F56600",
           "state": "South Carolina",
           "rival": "GT",
@@ -848,7 +848,7 @@
         {
           "name": "Pittsburgh",
           "abbreviation": "PITT",
-          "prestige": "78",
+          "prestige": "77",
           "hexColor": "003594",
           "state": "Pennsylvania",
           "rival": "CUSE",
@@ -873,7 +873,7 @@
         {
           "name": "Virginia Tech",
           "abbreviation": "VT",
-          "prestige": "73",
+          "prestige": "75",
           "hexColor": "630031",
           "state": "Virginia",
           "rival": "UVA",
@@ -923,7 +923,7 @@
         {
           "name": "Florida State",
           "abbreviation": "FSU",
-          "prestige": "69",
+          "prestige": "84",
           "hexColor": "782F40",
           "state": "Florida",
           "rival": "MIA",
@@ -948,7 +948,7 @@
         {
           "name": "Miami",
           "abbreviation": "MIA",
-          "prestige": "71",
+          "prestige": "79",
           "hexColor": "005030",
           "state": "Florida",
           "rival": "FSU",
@@ -973,7 +973,7 @@
         {
           "name": "Notre Dame",
           "abbreviation": "ND",
-          "prestige": "85",
+          "prestige": "87",
           "hexColor": "0C2340",
           "state": "Indiana",
           "rival": "BC",
@@ -998,7 +998,7 @@
         {
           "name": "Boston College",
           "abbreviation": "BC",
-          "prestige": "71",
+          "prestige": "68",
           "hexColor": "98002E",
           "state": "Massachusetts",
           "rival": "ND",
@@ -1023,7 +1023,7 @@
         {
           "name": "Syracuse",
           "abbreviation": "CUSE",
-          "prestige": "78",
+          "prestige": "72",
           "hexColor": "D44500",
           "state": "New York",
           "rival": "PITT",
@@ -1048,7 +1048,7 @@
         {
           "name": "Virginia",
           "abbreviation": "UVA",
-          "prestige": "73",
+          "prestige": "70",
           "hexColor": "F84C1E",
           "state": "Virginia",
           "rival": "VT",
@@ -1106,7 +1106,7 @@
         {
           "name": "Oregon",
           "abbreviation": "ORE",
-          "prestige": "80",
+          "prestige": "85",
           "hexColor": "154733",
           "state": "Oregon",
           "rival": "ORST",
@@ -1131,7 +1131,7 @@
         {
           "name": "Stanford",
           "abbreviation": "STAN",
-          "prestige": "81",
+          "prestige": "79",
           "hexColor": "8C1515",
           "state": "California",
           "rival": "CAL",
@@ -1181,7 +1181,7 @@
         {
           "name": "UCLA",
           "abbreviation": "UCLA",
-          "prestige": "67",
+          "prestige": "69",
           "hexColor": "2D68C4",
           "state": "California",
           "rival": "USC",
@@ -1206,7 +1206,7 @@
         {
           "name": "Southern Cal",
           "abbreviation": "USC",
-          "prestige": "66",
+          "prestige": "82",
           "hexColor": "990000",
           "state": "California",
           "rival": "UCLA",
@@ -1231,7 +1231,7 @@
         {
           "name": "Oregon State",
           "abbreviation": "ORST",
-          "prestige": "62",
+          "prestige": "67",
           "hexColor": "DC4405",
           "state": "Oregon",
           "rival": "ORE",
@@ -1256,7 +1256,7 @@
         {
           "name": "Washington State",
           "abbreviation": "WSU",
-          "prestige": "82",
+          "prestige": "72",
           "hexColor": "5E6A71",
           "state": "Washington",
           "rival": "UW",
@@ -1281,7 +1281,7 @@
         {
           "name": "Utah",
           "abbreviation": "UTAH",
-          "prestige": "79",
+          "prestige": "80",
           "hexColor": "CC0000",
           "state": "Utah",
           "rival": "ASU",
@@ -1339,7 +1339,7 @@
         {
           "name": "Central Florida",
           "abbreviation": "UCF",
-          "prestige": "72",
+          "prestige": "68",
           "hexColor": "000000",
           "state": "Florida",
           "rival": "USF",
@@ -1364,7 +1364,7 @@
         {
           "name": "South Florida",
           "abbreviation": "USF",
-          "prestige": "63",
+          "prestige": "62",
           "hexColor": "006747",
           "state": "Florida",
           "rival": "UCF",
@@ -1389,7 +1389,7 @@
         {
           "name": "Cincinnati",
           "abbreviation": "CIN",
-          "prestige": "70",
+          "prestige": "66",
           "hexColor": "E00122",
           "state": "Ohio",
           "rival": "MEM",
@@ -1439,7 +1439,7 @@
         {
           "name": "UConn",
           "abbreviation": "CONN",
-          "prestige": "59",
+          "prestige": "44",
           "hexColor": "000E24",
           "state": "Connecticut",
           "rival": "TEM",
@@ -1489,7 +1489,7 @@
         {
           "name": "Houston",
           "abbreviation": "HOU",
-          "prestige": "62",
+          "prestige": "63",
           "hexColor": "C8102E",
           "state": "Texas",
           "rival": "SMU",
@@ -1514,7 +1514,7 @@
         {
           "name": "Southern Methodist",
           "abbreviation": "SMU",
-          "prestige": "59",
+          "prestige": "60",
           "hexColor": "C8102E",
           "state": "Texas",
           "rival": "HOU",
@@ -1597,7 +1597,7 @@
         {
           "name": "Boise State",
           "abbreviation": "BSU",
-          "prestige": "58",
+          "prestige": "64",
           "hexColor": "D64309",
           "state": "Idaho",
           "rival": "FRES",
@@ -1622,7 +1622,7 @@
         {
           "name": "Fresno State",
           "abbreviation": "FRES",
-          "prestige": "54",
+          "prestige": "59",
           "hexColor": "DB0032",
           "state": "California",
           "rival": "BSU",
@@ -1647,7 +1647,7 @@
         {
           "name": "Brigham Young",
           "abbreviation": "BYU",
-          "prestige": "55",
+          "prestige": "62",
           "hexColor": "002E5D",
           "state": "Utah",
           "rival": "USU",
@@ -1672,7 +1672,7 @@
         {
           "name": "Utah State",
           "abbreviation": "USU",
-          "prestige": "50",
+          "prestige": "57",
           "hexColor": "0F2439",
           "state": "Utah",
           "rival": "BYU",
@@ -1697,7 +1697,7 @@
         {
           "name": "Wyoming",
           "abbreviation": "WYO",
-          "prestige": "50",
+          "prestige": "52",
           "hexColor": "492F24",
           "state": "Wyoming",
           "rival": "CSU",
@@ -1722,7 +1722,7 @@
         {
           "name": "Colorado State",
           "abbreviation": "CSU",
-          "prestige": "48",
+          "prestige": "51",
           "hexColor": "1E4D2B",
           "state": "Colorado",
           "rival": "WYO",
@@ -1747,7 +1747,7 @@
         {
           "name": "San Diego State",
           "abbreviation": "SDST",
-          "prestige": "48",
+          "prestige": "54",
           "hexColor": "000000",
           "state": "California",
           "rival": "SJSU",
@@ -1772,7 +1772,7 @@
         {
           "name": "San Jose State",
           "abbreviation": "SJSU",
-          "prestige": "45",
+          "prestige": "46",
           "hexColor": "0055A2",
           "state": "California",
           "rival": "SDST",
@@ -1855,7 +1855,7 @@
         {
           "name": "Appalachian State",
           "abbreviation": "APP",
-          "prestige": "58",
+          "prestige": "61",
           "hexColor": "FFCC00",
           "state": "North Carolina",
           "rival": "GASO",
@@ -1880,7 +1880,7 @@
         {
           "name": "Georgia Southern",
           "abbreviation": "GASO",
-          "prestige": "50",
+          "prestige": "54",
           "hexColor": "011E41",
           "state": "Georgia",
           "rival": "APP",
@@ -1905,7 +1905,7 @@
         {
           "name": "Troy",
           "abbreviation": "TROY",
-          "prestige": "54",
+          "prestige": "57",
           "hexColor": "8A2432",
           "state": "Alabama",
           "rival": "USA",
@@ -1955,7 +1955,7 @@
         {
           "name": "Arkansas State",
           "abbreviation": "AKST",
-          "prestige": "48",
+          "prestige": "49",
           "hexColor": "000000",
           "state": "Arkansas",
           "rival": "ULL",
@@ -2005,7 +2005,7 @@
         {
           "name": "Coastal Carolina",
           "abbreviation": "CCU",
-          "prestige": "45",
+          "prestige": "51",
           "hexColor": "006F71",
           "state": "South Carolina",
           "rival": "GSU",
