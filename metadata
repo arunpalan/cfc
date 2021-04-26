@@ -43,7 +43,7 @@
     {
       "confName": "SEC",
       "confFullName": "Southeastern Conference",
-      "confPrestige": "92",
+      "confPrestige": "93",
       "confTeams": 
       [        
         {
@@ -301,7 +301,7 @@
     {
       "confName": "B1G",
       "confFullName": "Big Ten",
-      "confPrestige": "88",
+      "confPrestige": "91",
       "confTeams": 
       [        
         {
@@ -1075,7 +1075,7 @@
     {
       "confName": "PAC",
       "confFullName": "Pac 12",
-      "confPrestige": "84",
+      "confPrestige": "85",
       "confTeams": 
       [        
         {
@@ -1333,7 +1333,7 @@
     {
       "confName": "AAC",
       "confFullName": "American Athletic Conference",
-      "confPrestige": "57",
+      "confPrestige": "54",
       "confTeams": 
       [        
         {
@@ -1591,7 +1591,7 @@
     {
       "confName": "MWC",
       "confFullName": "Mountain West",
-      "confPrestige": "42",
+      "confPrestige": "44",
       "confTeams": 
       [        
         {
@@ -1849,7 +1849,7 @@
     {
       "confName": "SUN",
       "confFullName": "Sun Belt",
-      "confPrestige": "39",
+      "confPrestige": "41",
       "confTeams": 
       [        
         {
@@ -2107,7 +2107,7 @@
     {
       "confName": "CUSA",
       "confFullName": "Conference USA",
-      "confPrestige": "36",
+      "confPrestige": "38",
       "confTeams": 
       [        
         {
@@ -2365,7 +2365,7 @@
     {
       "confName": "MAC",
       "confFullName": "Middle American",
-      "confPrestige": "36",
+      "confPrestige": "38",
       "confTeams": 
       [        
         {
