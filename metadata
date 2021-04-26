@@ -124,7 +124,7 @@
         {
           "name": "Tennessee",
           "abbreviation": "TENN",
-          "prestige": "83",
+          "prestige": "76",
           "hexColor": "FF8200",
           "state": "Tennessee",
           "rival": "MSST",
@@ -1439,7 +1439,7 @@
         {
           "name": "UConn",
           "abbreviation": "CONN",
-          "prestige": "44",
+          "prestige": "50",
           "hexColor": "000E24",
           "state": "Connecticut",
           "rival": "TEM",
