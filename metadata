@@ -50,6 +50,7 @@
           "name": "Alabama",
           "abbreviation": "BAMA",
           "prestige": "94",
+          "hexColor": "9E1B32",
           "state": "Alabama",
           "rival": "AUB",
           "headCoach": 
@@ -74,6 +75,7 @@
           "name": "Georgia",
           "abbreviation": "UGA",
           "prestige": "84",
+          "hexColor": "BA0C2F",
           "state": "Georgia",
           "rival": "UF",
           "headCoach": 
@@ -98,6 +100,7 @@
           "name": "Florida",
           "abbreviation": "UF",
           "prestige": "84",
+          "hexColor": "0021A5",
           "state": "Florida",
           "rival": "UGA",
           "headCoach": 
@@ -122,6 +125,7 @@
           "name": "Tennessee",
           "abbreviation": "TENN",
           "prestige": "68",
+          "hexColor": "FF8200",
           "state": "Tennessee",
           "rival": "MSST",
           "headCoach": 
@@ -146,6 +150,7 @@
           "name": "LSU",
           "abbreviation": "LSU",
           "prestige": "81",
+          "hexColor": "461D7C",
           "state": "Louisiana",
           "rival": "TAMU",
           "headCoach": 
@@ -170,6 +175,7 @@
           "name": "Kentucky",
           "abbreviation": "KY",
           "prestige": "74",
+          "hexColor": "0033A0",
           "state": "Kentucky",
           "rival": "MIZZ",
           "headCoach": 
@@ -194,6 +200,7 @@
           "name": "Missouri",
           "abbreviation": "MIZZ",
           "prestige": "68",
+          "hexColor": "000000",
           "state": "Missouri",
           "rival": "KY",
           "headCoach": 
@@ -218,6 +225,7 @@
           "name": "Mississippi State",
           "abbreviation": "MSST",
           "prestige": "75",
+          "hexColor": "660000",
           "state": "Mississippi",
           "rival": "TENN",
           "headCoach": 
@@ -242,6 +250,7 @@
           "name": "Auburn",
           "abbreviation": "AUB",
           "prestige": "72",
+          "hexColor": "0C2340",
           "state": "Alabama",
           "rival": "BAMA",
           "headCoach": 
@@ -266,6 +275,7 @@
           "name": "Texas A&M",
           "abbreviation": "TAMU",
           "prestige": "76",
+          "hexColor": "500000",
           "state": "Texas",
           "rival": "LSU",
           "headCoach": 
@@ -298,6 +308,7 @@
           "name": "Michigan",
           "abbreviation": "UM",
           "prestige": "79",
+          "hexColor": "00274C",
           "state": "Michigan",
           "rival": "MSU",
           "headCoach": 
@@ -322,6 +333,7 @@
           "name": "Ohio State",
           "abbreviation": "OSU",
           "prestige": "86",
+          "hexColor": "BB0000",
           "state": "Ohio",
           "rival": "PSU",
           "headCoach": 
@@ -346,6 +358,7 @@
           "name": "Michigan State",
           "abbreviation": "MSU",
           "prestige": "76",
+          "hexColor": "18453B",
           "state": "Michigan",
           "rival": "UM",
           "headCoach": 
@@ -370,6 +383,7 @@
           "name": "Penn State",
           "abbreviation": "PSU",
           "prestige": "83",
+          "hexColor": "041E42",
           "state": "Pennsylvania",
           "rival": "OSU",
           "headCoach": 
@@ -394,6 +408,7 @@
           "name": "Wisconsin",
           "abbreviation": "WIS",
           "prestige": "77",
+          "hexColor": "C5050C",
           "state": "Wisconsin",
           "rival": "MINN",
           "headCoach": 
@@ -418,6 +433,7 @@
           "name": "Minnesota",
           "abbreviation": "MINN",
           "prestige": "78",
+          "hexColor": "7A0019",
           "state": "Minnesota",
           "rival": "WIS",
           "headCoach": 
@@ -442,6 +458,7 @@
           "name": "Iowa",
           "abbreviation": "IOWA",
           "prestige": "81",
+          "hexColor": "FFCD00",
           "state": "Iowa",
           "rival": "NEB",
           "headCoach": 
@@ -466,6 +483,7 @@
           "name": "Nebraska",
           "abbreviation": "NEB",
           "prestige": "68",
+          "hexColor": "E41C38",
           "state": "Nebraska",
           "rival": "IOWA",
           "headCoach": 
@@ -490,6 +508,7 @@
           "name": "Purdue",
           "abbreviation": "PUR",
           "prestige": "69",
+          "hexColor": "CEB888",
           "state": "Indiana",
           "rival": "NW",
           "headCoach": 
@@ -514,6 +533,7 @@
           "name": "Northwestern",
           "abbreviation": "NW",
           "prestige": "81",
+          "hexColor": "4E2A84",
           "state": "Illinois",
           "rival": "PUR",
           "headCoach": 
@@ -546,6 +566,7 @@
           "name": "Oklahoma",
           "abbreviation": "OU",
           "prestige": "86",
+          "hexColor": "841617",
           "state": "Oklahoma",
           "rival": "UT",
           "headCoach": 
@@ -570,6 +591,7 @@
           "name": "Texas",
           "abbreviation": "UT",
           "prestige": "80",
+          "hexColor": "BF5700",
           "state": "Texas",
           "rival": "OU",
           "headCoach": 
@@ -594,6 +616,7 @@
           "name": "West Virginia",
           "abbreviation": "WVU",
           "prestige": "78",
+          "hexColor": "EAAA00",
           "state": "West Virginia",
           "rival": "OKST",
           "headCoach": 
@@ -618,6 +641,7 @@
           "name": "Texas Christian",
           "abbreviation": "TCU",
           "prestige": "79",
+          "hexColor": "4D1979",
           "state": "Texas",
           "rival": "BAYL",
           "headCoach": 
@@ -642,6 +666,7 @@
           "name": "Baylor",
           "abbreviation": "BAYL",
           "prestige": "77",
+          "hexColor": "003015",
           "state": "Texas",
           "rival": "TCU",
           "headCoach": 
@@ -666,8 +691,9 @@
           "name": "Iowa State",
           "abbreviation": "ISU",
           "prestige": "77",
+          "hexColor": "C8102E",
           "state": "Iowa",
-          "rival": "TTEC",
+          "rival": "TTU",
           "headCoach": 
           {
             "name": "Matt Campbell",
@@ -688,8 +714,9 @@
         },        
         {
           "name": "Texas Tech",
-          "abbreviation": "TTEC",
+          "abbreviation": "TTU",
           "prestige": "71",
+          "hexColor": "000000",
           "state": "Texas",
           "rival": "ISU",
           "headCoach": 
@@ -714,6 +741,7 @@
           "name": "Oklahoma State",
           "abbreviation": "OKSU",
           "prestige": "74",
+          "hexColor": "FF7300",
           "state": "Oklahoma",
           "rival": "WVU",
           "headCoach": 
@@ -738,8 +766,9 @@
           "name": "Kansas State",
           "abbreviation": "KSU",
           "prestige": "66",
+          "hexColor": "512888",
           "state": "Kansas",
-          "rival": "KS",
+          "rival": "KU",
           "headCoach": 
           {
             "name": "Chris Klieman",
@@ -760,8 +789,9 @@
         },        
         {
           "name": "Kansas",
-          "abbreviation": "KS",
+          "abbreviation": "KU",
           "prestige": "59",
+          "hexColor": "0051BA",
           "state": "Kansas",
           "rival": "KSU",
           "headCoach": 
@@ -794,6 +824,7 @@
           "name": "Clemson",
           "abbreviation": "CLEM",
           "prestige": "95",
+          "hexColor": "F56600",
           "state": "South Carolina",
           "rival": "GT",
           "headCoach": 
@@ -818,6 +849,7 @@
           "name": "Pittsburgh",
           "abbreviation": "PITT",
           "prestige": "78",
+          "hexColor": "003594",
           "state": "Pennsylvania",
           "rival": "CUSE",
           "headCoach": 
@@ -842,6 +874,7 @@
           "name": "Virginia Tech",
           "abbreviation": "VT",
           "prestige": "73",
+          "hexColor": "630031",
           "state": "Virginia",
           "rival": "UVA",
           "headCoach": 
@@ -866,6 +899,7 @@
           "name": "Georgia Tech",
           "abbreviation": "GT",
           "prestige": "76",
+          "hexColor": "B3A369",
           "state": "Georgia",
           "rival": "CLEM",
           "headCoach": 
@@ -890,6 +924,7 @@
           "name": "Florida State",
           "abbreviation": "FSU",
           "prestige": "69",
+          "hexColor": "782F40",
           "state": "Florida",
           "rival": "MIA",
           "headCoach": 
@@ -914,6 +949,7 @@
           "name": "Miami",
           "abbreviation": "MIA",
           "prestige": "71",
+          "hexColor": "005030",
           "state": "Florida",
           "rival": "FSU",
           "headCoach": 
@@ -938,6 +974,7 @@
           "name": "Notre Dame",
           "abbreviation": "ND",
           "prestige": "85",
+          "hexColor": "0C2340",
           "state": "Indiana",
           "rival": "BC",
           "headCoach": 
@@ -962,6 +999,7 @@
           "name": "Boston College",
           "abbreviation": "BC",
           "prestige": "71",
+          "hexColor": "98002E",
           "state": "Massachusetts",
           "rival": "ND",
           "headCoach": 
@@ -986,6 +1024,7 @@
           "name": "Syracuse",
           "abbreviation": "CUSE",
           "prestige": "78",
+          "hexColor": "D44500",
           "state": "New York",
           "rival": "PITT",
           "headCoach": 
@@ -1010,6 +1049,7 @@
           "name": "Virginia",
           "abbreviation": "UVA",
           "prestige": "73",
+          "hexColor": "F84C1E",
           "state": "Virginia",
           "rival": "VT",
           "headCoach": 
@@ -1042,6 +1082,7 @@
           "name": "Washington",
           "abbreviation": "UW",
           "prestige": "83",
+          "hexColor": "4B2E83",
           "state": "Washington",
           "rival": "WSU",
           "headCoach": 
@@ -1066,6 +1107,7 @@
           "name": "Oregon",
           "abbreviation": "ORE",
           "prestige": "80",
+          "hexColor": "154733",
           "state": "Oregon",
           "rival": "ORST",
           "headCoach": 
@@ -1090,6 +1132,7 @@
           "name": "Stanford",
           "abbreviation": "STAN",
           "prestige": "81",
+          "hexColor": "8C1515",
           "state": "California",
           "rival": "CAL",
           "headCoach": 
@@ -1114,6 +1157,7 @@
           "name": "Cal",
           "abbreviation": "CAL",
           "prestige": "74",
+          "hexColor": "003262",
           "state": "California",
           "rival": "STAN",
           "headCoach": 
@@ -1138,6 +1182,7 @@
           "name": "UCLA",
           "abbreviation": "UCLA",
           "prestige": "67",
+          "hexColor": "2D68C4",
           "state": "California",
           "rival": "USC",
           "headCoach": 
@@ -1162,6 +1207,7 @@
           "name": "Southern Cal",
           "abbreviation": "USC",
           "prestige": "66",
+          "hexColor": "990000",
           "state": "California",
           "rival": "UCLA",
           "headCoach": 
@@ -1186,6 +1232,7 @@
           "name": "Oregon State",
           "abbreviation": "ORST",
           "prestige": "62",
+          "hexColor": "DC4405",
           "state": "Oregon",
           "rival": "ORE",
           "headCoach": 
@@ -1210,6 +1257,7 @@
           "name": "Washington State",
           "abbreviation": "WSU",
           "prestige": "82",
+          "hexColor": "5E6A71",
           "state": "Washington",
           "rival": "UW",
           "headCoach": 
@@ -1234,6 +1282,7 @@
           "name": "Utah",
           "abbreviation": "UTAH",
           "prestige": "79",
+          "hexColor": "CC0000",
           "state": "Utah",
           "rival": "ASU",
           "headCoach": 
@@ -1258,6 +1307,7 @@
           "name": "Arizona State",
           "abbreviation": "ASU",
           "prestige": "70",
+          "hexColor": "8C1D40",
           "state": "American Samoa",
           "rival": "UTAH",
           "headCoach": 
@@ -1290,6 +1340,7 @@
           "name": "Central Florida",
           "abbreviation": "UCF",
           "prestige": "72",
+          "hexColor": "000000",
           "state": "Florida",
           "rival": "USF",
           "headCoach": 
@@ -1314,6 +1365,7 @@
           "name": "South Florida",
           "abbreviation": "USF",
           "prestige": "63",
+          "hexColor": "006747",
           "state": "Florida",
           "rival": "UCF",
           "headCoach": 
@@ -1338,6 +1390,7 @@
           "name": "Cincinnati",
           "abbreviation": "CIN",
           "prestige": "70",
+          "hexColor": "E00122",
           "state": "Ohio",
           "rival": "MEM",
           "headCoach": 
@@ -1362,6 +1415,7 @@
           "name": "Memphis",
           "abbreviation": "MEM",
           "prestige": "64",
+          "hexColor": "898D8D",
           "state": "Tennessee",
           "rival": "CIN",
           "headCoach": 
@@ -1386,6 +1440,7 @@
           "name": "UConn",
           "abbreviation": "CONN",
           "prestige": "59",
+          "hexColor": "000E24",
           "state": "Connecticut",
           "rival": "TEM",
           "headCoach": 
@@ -1410,6 +1465,7 @@
           "name": "Temple",
           "abbreviation": "TEM",
           "prestige": "61",
+          "hexColor": "9D2235",
           "state": "Pennsylvania",
           "rival": "CONN",
           "headCoach": 
@@ -1434,6 +1490,7 @@
           "name": "Houston",
           "abbreviation": "HOU",
           "prestige": "62",
+          "hexColor": "C8102E",
           "state": "Texas",
           "rival": "SMU",
           "headCoach": 
@@ -1458,6 +1515,7 @@
           "name": "Southern Methodist",
           "abbreviation": "SMU",
           "prestige": "59",
+          "hexColor": "C8102E",
           "state": "Texas",
           "rival": "HOU",
           "headCoach": 
@@ -1482,8 +1540,9 @@
           "name": "Tulane",
           "abbreviation": "TUL",
           "prestige": "61",
+          "hexColor": "006747",
           "state": "Louisiana",
-          "rival": "TLS",
+          "rival": "TULS",
           "headCoach": 
           {
             "name": "Thomas Mensi",
@@ -1504,8 +1563,9 @@
         },        
         {
           "name": "Tulsa",
-          "abbreviation": "TLS",
+          "abbreviation": "TULS",
           "prestige": "60",
+          "hexColor": "002D72",
           "state": "Oklahoma",
           "rival": "TUL",
           "headCoach": 
@@ -1538,6 +1598,7 @@
           "name": "Boise State",
           "abbreviation": "BSU",
           "prestige": "58",
+          "hexColor": "D64309",
           "state": "Idaho",
           "rival": "FRES",
           "headCoach": 
@@ -1562,6 +1623,7 @@
           "name": "Fresno State",
           "abbreviation": "FRES",
           "prestige": "54",
+          "hexColor": "DB0032",
           "state": "California",
           "rival": "BSU",
           "headCoach": 
@@ -1586,6 +1648,7 @@
           "name": "Brigham Young",
           "abbreviation": "BYU",
           "prestige": "55",
+          "hexColor": "002E5D",
           "state": "Utah",
           "rival": "USU",
           "headCoach": 
@@ -1610,6 +1673,7 @@
           "name": "Utah State",
           "abbreviation": "USU",
           "prestige": "50",
+          "hexColor": "0F2439",
           "state": "Utah",
           "rival": "BYU",
           "headCoach": 
@@ -1634,6 +1698,7 @@
           "name": "Wyoming",
           "abbreviation": "WYO",
           "prestige": "50",
+          "hexColor": "492F24",
           "state": "Wyoming",
           "rival": "CSU",
           "headCoach": 
@@ -1658,6 +1723,7 @@
           "name": "Colorado State",
           "abbreviation": "CSU",
           "prestige": "48",
+          "hexColor": "1E4D2B",
           "state": "Colorado",
           "rival": "WYO",
           "headCoach": 
@@ -1680,10 +1746,11 @@
         },        
         {
           "name": "San Diego State",
-          "abbreviation": "SD",
+          "abbreviation": "SDST",
           "prestige": "48",
+          "hexColor": "000000",
           "state": "California",
-          "rival": "JOSE",
+          "rival": "SJSU",
           "headCoach": 
           {
             "name": "Kendrick Courson",
@@ -1704,10 +1771,11 @@
         },        
         {
           "name": "San Jose State",
-          "abbreviation": "JOSE",
+          "abbreviation": "SJSU",
           "prestige": "45",
+          "hexColor": "0055A2",
           "state": "California",
-          "rival": "SD",
+          "rival": "SDST",
           "headCoach": 
           {
             "name": "Alan Eric",
@@ -1728,8 +1796,9 @@
         },        
         {
           "name": "Hawaii",
-          "abbreviation": "HI",
+          "abbreviation": "HAW",
           "prestige": "52",
+          "hexColor": "024731",
           "state": "Hawaii",
           "rival": "AF",
           "headCoach": 
@@ -1752,10 +1821,11 @@
         },        
         {
           "name": "Air Force",
-          "abbreviation": "USAF",
+          "abbreviation": "AF",
           "prestige": "48",
+          "hexColor": "8A8D8F",
           "state": "Colorado",
-          "rival": "HI",
+          "rival": "HAW",
           "headCoach": 
           {
             "name": "Marshall Hodgin",
@@ -1786,6 +1856,7 @@
           "name": "Appalachian State",
           "abbreviation": "APP",
           "prestige": "58",
+          "hexColor": "FFCC00",
           "state": "North Carolina",
           "rival": "GS",
           "headCoach": 
@@ -1810,6 +1881,7 @@
           "name": "Georgia Southern",
           "abbreviation": "GS",
           "prestige": "50",
+          "hexColor": "011E41",
           "state": "Georgia",
           "rival": "APP",
           "headCoach": 
@@ -1834,6 +1906,7 @@
           "name": "Troy",
           "abbreviation": "TROY",
           "prestige": "54",
+          "hexColor": "8A2432",
           "state": "Alabama",
           "rival": "USA",
           "headCoach": 
@@ -1858,6 +1931,7 @@
           "name": "South Alabama",
           "abbreviation": "USA",
           "prestige": "47",
+          "hexColor": "00205B",
           "state": "Alabama",
           "rival": "TROY",
           "headCoach": 
@@ -1882,6 +1956,7 @@
           "name": "Arkansas State",
           "abbreviation": "AKSU",
           "prestige": "48",
+          "hexColor": "000000",
           "state": "Arkansas",
           "rival": "ULL",
           "headCoach": 
@@ -1906,6 +1981,7 @@
           "name": "Louisiana Lafayette",
           "abbreviation": "ULL",
           "prestige": "46",
+          "hexColor": "CE181E",
           "state": "Louisiana",
           "rival": "AKSU",
           "headCoach": 
@@ -1930,6 +2006,7 @@
           "name": "Coastal Carolina",
           "abbreviation": "CCU",
           "prestige": "45",
+          "hexColor": "006F71",
           "state": "South Carolina",
           "rival": "GSU",
           "headCoach": 
@@ -1954,6 +2031,7 @@
           "name": "Georgia State",
           "abbreviation": "GSU",
           "prestige": "45",
+          "hexColor": "0039A6",
           "state": "Georgia",
           "rival": "CCU",
           "headCoach": 
@@ -1976,10 +2054,11 @@
         },        
         {
           "name": "Texas State",
-          "abbreviation": "TSU",
+          "abbreviation": "TXST",
           "prestige": "45",
+          "hexColor": "501214",
           "state": "Texas",
-          "rival": "ARL",
+          "rival": "UTA",
           "headCoach": 
           {
             "name": "Darryl Jordan",
@@ -2000,10 +2079,11 @@
         },        
         {
           "name": "UT Arlington",
-          "abbreviation": "ARL",
+          "abbreviation": "UTA",
           "prestige": "46",
+          "hexColor": "F58025",
           "state": "Texas",
-          "rival": "TSU",
+          "rival": "TXST",
           "headCoach": 
           {
             "name": "Manuel Feddersen",
@@ -2034,6 +2114,7 @@
           "name": "Alabama Birmingham",
           "abbreviation": "UAB",
           "prestige": "55",
+          "hexColor": "CC8A00",
           "state": "Alabama",
           "rival": "MTSU",
           "headCoach": 
@@ -2058,6 +2139,7 @@
           "name": "Middle Tennessee State",
           "abbreviation": "MTSU",
           "prestige": "52",
+          "hexColor": "0066CC",
           "state": "Tennessee",
           "rival": "UAB",
           "headCoach": 
@@ -2082,6 +2164,7 @@
           "name": "Florida Atlantic",
           "abbreviation": "FAU",
           "prestige": "48",
+          "hexColor": "003366",
           "state": "Florida",
           "rival": "FIU",
           "headCoach": 
@@ -2106,6 +2189,7 @@
           "name": "Florida International",
           "abbreviation": "FIU",
           "prestige": "49",
+          "hexColor": "081E3F",
           "state": "Florida",
           "rival": "FAU",
           "headCoach": 
@@ -2130,6 +2214,7 @@
           "name": "Marshall",
           "abbreviation": "MAR",
           "prestige": "51",
+          "hexColor": "00B140",
           "state": "West Virginia",
           "rival": "ODU",
           "headCoach": 
@@ -2154,6 +2239,7 @@
           "name": "Old Dominion",
           "abbreviation": "ODU",
           "prestige": "49",
+          "hexColor": "7C878E",
           "state": "Virginia",
           "rival": "PRO",
           "headCoach": 
@@ -2178,6 +2264,7 @@
           "name": "North Texas",
           "abbreviation": "UNT",
           "prestige": "50",
+          "hexColor": "00853E",
           "state": "Texas",
           "rival": "UTEP",
           "headCoach": 
@@ -2202,6 +2289,7 @@
           "name": "UTEP",
           "abbreviation": "UTEP",
           "prestige": "47",
+          "hexColor": "FF8200",
           "state": "Texas",
           "rival": "UNT",
           "headCoach": 
@@ -2226,6 +2314,7 @@
           "name": "Western Kentucky",
           "abbreviation": "WKU",
           "prestige": "48",
+          "hexColor": "C60C30",
           "state": "Kentucky",
           "rival": "LAT",
           "headCoach": 
@@ -2250,6 +2339,7 @@
           "name": "Louisiana Tech",
           "abbreviation": "LAT",
           "prestige": "53",
+          "hexColor": "E31B23",
           "state": "Louisiana",
           "rival": "WKU",
           "headCoach": 
@@ -2282,6 +2372,7 @@
           "name": "Buffalo",
           "abbreviation": "BUF",
           "prestige": "50",
+          "hexColor": "005BBB",
           "state": "New York",
           "rival": "NIU",
           "headCoach": 
@@ -2306,6 +2397,7 @@
           "name": "Northern Illinois",
           "abbreviation": "NIU",
           "prestige": "45",
+          "hexColor": "BA0C2F",
           "state": "Illinois",
           "rival": "BUF",
           "headCoach": 
@@ -2330,8 +2422,9 @@
           "name": "Miami OH",
           "abbreviation": "MOH",
           "prestige": "42",
+          "hexColor": "000000",
           "state": "Ohio",
-          "rival": "OH",
+          "rival": "OHIO",
           "headCoach": 
           {
             "name": "Vaughn Sherwood",
@@ -2352,8 +2445,9 @@
         },        
         {
           "name": "Ohio University",
-          "abbreviation": "OH",
+          "abbreviation": "OHIO",
           "prestige": "43",
+          "hexColor": "00694E",
           "state": "Ohio",
           "rival": "MOH",
           "headCoach": 
@@ -2376,10 +2470,11 @@
         },        
         {
           "name": "Central Michigan",
-          "abbreviation": "CMI",
+          "abbreviation": "CMU",
           "prestige": "39",
+          "hexColor": "6A0032",
           "state": "Michigan",
-          "rival": "WMI",
+          "rival": "WMU",
           "headCoach": 
           {
             "name": "Jim McElwain",
@@ -2402,8 +2497,9 @@
           "name": "Toledo",
           "abbreviation": "TOL",
           "prestige": "49",
+          "hexColor": "FFDA00",
           "state": "Ohio",
-          "rival": "BOWL",
+          "rival": "BGSU",
           "headCoach": 
           {
             "name": "Zachary Burchfield",
@@ -2424,10 +2520,11 @@
         },        
         {
           "name": "Western Michigan",
-          "abbreviation": "WMI",
+          "abbreviation": "WMU",
           "prestige": "45",
+          "hexColor": "6C4023",
           "state": "Michigan",
-          "rival": "CMI",
+          "rival": "CMU",
           "headCoach": 
           {
             "name": "Tim Lester",
@@ -2450,6 +2547,7 @@
           "name": "Akron",
           "abbreviation": "AKR",
           "prestige": "41",
+          "hexColor": "041E42",
           "state": "Ohio",
           "rival": "KENT",
           "headCoach": 
@@ -2472,8 +2570,9 @@
         },        
         {
           "name": "Bowling Green",
-          "abbreviation": "BOWL",
+          "abbreviation": "BGSU",
           "prestige": "40",
+          "hexColor": "FE5000",
           "state": "Ohio",
           "rival": "TOL",
           "headCoach": 
@@ -2498,6 +2597,7 @@
           "name": "Kent State",
           "abbreviation": "KENT",
           "prestige": "45",
+          "hexColor": "EAAB00",
           "state": "Ohio",
           "rival": "AKR",
           "headCoach": 
@@ -2529,6 +2629,7 @@
         {
           "name": "North Dakota State",
           "abbreviation": "NDSU",
+          "hexColor": "0A5640",
           "prestige": "28",
           "state": "North Dakota",
           "rival": "SDSU",
@@ -2554,6 +2655,7 @@
           "name": "South Dakota State",
           "abbreviation": "SDSU",
           "prestige": "29",
+          "hexColor": "FFD100",
           "state": "South Dakota",
           "rival": "NDSU",
           "headCoach": 
@@ -2578,6 +2680,7 @@
           "name": "Northern Iowa",
           "abbreviation": "UNI",
           "prestige": "25",
+          "hexColor": "4B116F",
           "state": "Iowa",
           "rival": "WIU",
           "headCoach": 
@@ -2602,6 +2705,7 @@
           "name": "Indiana State",
           "abbreviation": "INST",
           "prestige": "30",
+          "hexColor": "0142BC",
           "state": "Indiana",
           "rival": "YSU",
           "headCoach": 
@@ -2626,6 +2730,7 @@
           "name": "Western Illinois",
           "abbreviation": "WIU",
           "prestige": "31",
+          "hexColor": "663399",
           "state": "Illinois",
           "rival": "UNI",
           "headCoach": 
@@ -2650,6 +2755,7 @@
           "name": "Illinois State",
           "abbreviation": "ILST",
           "prestige": "25",
+          "hexColor": "CE1126",
           "state": "Illinois",
           "rival": "USD",
           "headCoach": 
@@ -2674,6 +2780,7 @@
           "name": "Youngstown State",
           "abbreviation": "YSU",
           "prestige": "28",
+          "hexColor": "C8102E",
           "state": "Virginia",
           "rival": "INST",
           "headCoach": 
@@ -2698,6 +2805,7 @@
           "name": "Univ South Dakota",
           "abbreviation": "USD",
           "prestige": "25",
+          "hexColor": "AD0000",
           "state": "South Dakota",
           "rival": "ILST",
           "headCoach": 
@@ -2722,6 +2830,7 @@
           "name": "Missouri State",
           "abbreviation": "MOST",
           "prestige": "25",
+          "hexColor": "5E0009",
           "state": "Missouri",
           "rival": "SIL",
           "headCoach": 
@@ -2746,6 +2855,7 @@
           "name": "Southern Illinois",
           "abbreviation": "SIL",
           "prestige": "25",
+          "hexColor": "720000",
           "state": "Illinois",
           "rival": "MOST",
           "headCoach": 
@@ -2778,8 +2888,9 @@
           "name": "Maine",
           "abbreviation": "MAI",
           "prestige": "25",
+          "hexColor": "B0D7FF",
           "state": "Maine",
-          "rival": "STON",
+          "rival": "SBU",
           "headCoach": 
           {
             "name": "Matt Alexander",
@@ -2802,6 +2913,7 @@
           "name": "James Madison",
           "abbreviation": "JAME",
           "prestige": "25",
+          "hexColor": "9E1B32",
           "state": "Virginia",
           "rival": "WILL",
           "headCoach": 
@@ -2824,8 +2936,9 @@
         },        
         {
           "name": "Stony Brook",
-          "abbreviation": "STON",
+          "abbreviation": "SBU",
           "prestige": "25",
+          "hexColor": "990000",
           "state": "New York",
           "rival": "MAI",
           "headCoach": 
@@ -2850,6 +2963,7 @@
           "name": "Towson",
           "abbreviation": "TOW",
           "prestige": "25",
+          "hexColor": "FFBB00",
           "state": "Maryland",
           "rival": "DEL",
           "headCoach": 
@@ -2871,9 +2985,10 @@
           }
         },        
         {
-          "name": "Delware",
+          "name": "Delaware",
           "abbreviation": "DEL",
           "prestige": "25",
+          "hexColor": "00539F",
           "state": "Delaware",
           "rival": "TOW",
           "headCoach": 
@@ -2896,10 +3011,11 @@
         },        
         {
           "name": "Elon",
-          "abbreviation": "ELO",
+          "abbreviation": "ELON",
           "prestige": "25",
+          "hexColor": "73000A",
           "state": "North Carolina",
-          "rival": "VILA",
+          "rival": "NOVA",
           "headCoach": 
           {
             "name": "Paul Goldfuss",
@@ -2922,6 +3038,7 @@
           "name": "Rhode Island",
           "abbreviation": "RHO",
           "prestige": "25",
+          "hexColor": "68ABE8",
           "state": "Rhode Island",
           "rival": "HAMP",
           "headCoach": 
@@ -2946,6 +3063,7 @@
           "name": "William & Mary",
           "abbreviation": "WILL",
           "prestige": "25",
+          "hexColor": "115740",
           "state": "Virginia",
           "rival": "JAME",
           "headCoach": 
@@ -2970,6 +3088,7 @@
           "name": "New Hampshire",
           "abbreviation": "HAMP",
           "prestige": "25",
+          "hexColor": "BBBCBC",
           "state": "New Hampshire",
           "rival": "RHO",
           "headCoach": 
@@ -2992,10 +3111,11 @@
         },        
         {
           "name": "Villanova",
-          "abbreviation": "VILA",
+          "abbreviation": "NOVA",
           "prestige": "25",
+          "hexColor": "00205B",
           "state": "Pennsylvania",
-          "rival": "ELO",
+          "rival": "ELON",
           "headCoach": 
           {
             "name": "Chase Dumpson",
