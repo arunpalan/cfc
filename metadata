@@ -173,7 +173,7 @@
         },        
         {
           "name": "Kentucky",
-          "abbreviation": "KY",
+          "abbreviation": "UK",
           "prestige": "74",
           "hexColor": "0033A0",
           "state": "Kentucky",
@@ -202,7 +202,7 @@
           "prestige": "68",
           "hexColor": "000000",
           "state": "Missouri",
-          "rival": "KY",
+          "rival": "UK",
           "headCoach": 
           {
             "name": "Barry Odom",
@@ -739,7 +739,7 @@
         },        
         {
           "name": "Oklahoma State",
-          "abbreviation": "OKSU",
+          "abbreviation": "OKST",
           "prestige": "74",
           "hexColor": "FF7300",
           "state": "Oklahoma",
@@ -1308,7 +1308,7 @@
           "abbreviation": "ASU",
           "prestige": "70",
           "hexColor": "8C1D40",
-          "state": "American Samoa",
+          "state": "Arizona",
           "rival": "UTAH",
           "headCoach": 
           {
@@ -1858,7 +1858,7 @@
           "prestige": "58",
           "hexColor": "FFCC00",
           "state": "North Carolina",
-          "rival": "GS",
+          "rival": "GASO",
           "headCoach": 
           {
             "name": "Alec Condo",
@@ -1879,7 +1879,7 @@
         },        
         {
           "name": "Georgia Southern",
-          "abbreviation": "GS",
+          "abbreviation": "GASO",
           "prestige": "50",
           "hexColor": "011E41",
           "state": "Georgia",
@@ -1954,7 +1954,7 @@
         },        
         {
           "name": "Arkansas State",
-          "abbreviation": "AKSU",
+          "abbreviation": "AKST",
           "prestige": "48",
           "hexColor": "000000",
           "state": "Arkansas",
@@ -1983,7 +1983,7 @@
           "prestige": "46",
           "hexColor": "CE181E",
           "state": "Louisiana",
-          "rival": "AKSU",
+          "rival": "AKST",
           "headCoach": 
           {
             "name": "Ernie Biesecker",
@@ -2316,7 +2316,7 @@
           "prestige": "48",
           "hexColor": "C60C30",
           "state": "Kentucky",
-          "rival": "LAT",
+          "rival": "LT",
           "headCoach": 
           {
             "name": "Titus Cron",
@@ -2337,7 +2337,7 @@
         },        
         {
           "name": "Louisiana Tech",
-          "abbreviation": "LAT",
+          "abbreviation": "LT",
           "prestige": "53",
           "hexColor": "E31B23",
           "state": "Louisiana",
@@ -2370,7 +2370,7 @@
       [        
         {
           "name": "Buffalo",
-          "abbreviation": "BUF",
+          "abbreviation": "BUFF",
           "prestige": "50",
           "hexColor": "005BBB",
           "state": "New York",
@@ -2399,7 +2399,7 @@
           "prestige": "45",
           "hexColor": "BA0C2F",
           "state": "Illinois",
-          "rival": "BUF",
+          "rival": "BUFF",
           "headCoach": 
           {
             "name": "DJ Oare",
@@ -2420,7 +2420,7 @@
         },        
         {
           "name": "Miami OH",
-          "abbreviation": "MOH",
+          "abbreviation": "MIOH",
           "prestige": "42",
           "hexColor": "000000",
           "state": "Ohio",
@@ -2449,7 +2449,7 @@
           "prestige": "43",
           "hexColor": "00694E",
           "state": "Ohio",
-          "rival": "MOH",
+          "rival": "MIOH",
           "headCoach": 
           {
             "name": "Brendan Musshorn",
@@ -2757,7 +2757,7 @@
           "prestige": "25",
           "hexColor": "CE1126",
           "state": "Illinois",
-          "rival": "USD",
+          "rival": "SD",
           "headCoach": 
           {
             "name": "Roy Hedden",
@@ -2803,7 +2803,7 @@
         },        
         {
           "name": "Univ South Dakota",
-          "abbreviation": "USD",
+          "abbreviation": "SD",
           "prestige": "25",
           "hexColor": "AD0000",
           "state": "South Dakota",
@@ -2832,7 +2832,7 @@
           "prestige": "25",
           "hexColor": "5E0009",
           "state": "Missouri",
-          "rival": "SIL",
+          "rival": "SILL",
           "headCoach": 
           {
             "name": "Curtis Caliguire",
@@ -2853,7 +2853,7 @@
         },        
         {
           "name": "Southern Illinois",
-          "abbreviation": "SIL",
+          "abbreviation": "SILL",
           "prestige": "25",
           "hexColor": "720000",
           "state": "Illinois",
@@ -2915,7 +2915,7 @@
           "prestige": "25",
           "hexColor": "9E1B32",
           "state": "Virginia",
-          "rival": "WILL",
+          "rival": "WM",
           "headCoach": 
           {
             "name": "Leonard Calica",
@@ -2961,7 +2961,7 @@
         },        
         {
           "name": "Towson",
-          "abbreviation": "TOW",
+          "abbreviation": "TOWS",
           "prestige": "25",
           "hexColor": "FFBB00",
           "state": "Maryland",
@@ -2990,7 +2990,7 @@
           "prestige": "25",
           "hexColor": "00539F",
           "state": "Delaware",
-          "rival": "TOW",
+          "rival": "TOWS",
           "headCoach": 
           {
             "name": "Donovan Devenuto",
@@ -3040,7 +3040,7 @@
           "prestige": "25",
           "hexColor": "68ABE8",
           "state": "Rhode Island",
-          "rival": "HAMP",
+          "rival": "UNH",
           "headCoach": 
           {
             "name": "Donte Puna",
@@ -3061,7 +3061,7 @@
         },        
         {
           "name": "William & Mary",
-          "abbreviation": "WILL",
+          "abbreviation": "WM",
           "prestige": "25",
           "hexColor": "115740",
           "state": "Virginia",
@@ -3086,7 +3086,7 @@
         },        
         {
           "name": "New Hampshire",
-          "abbreviation": "HAMP",
+          "abbreviation": "UNH",
           "prestige": "25",
           "hexColor": "BBBCBC",
           "state": "New Hampshire",
