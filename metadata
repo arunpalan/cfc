@@ -47,12 +47,29 @@
       "confTeams": 
       [        
         {
-          "name": "Alfabama",
+          "name": "Alabama",
           "abbreviation": "BAMA",
           "prestige": "95",
           "hexColor": "9E1B32",
           "state": "Alabama",
-          "rival": "AUB"
+          "rival": "AUB",
+          "headCoach": 
+          {
+            "name": "Nick Saban",
+            "age": "67",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "West Virginia",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "1000",
+            "ratOvr": "94",
+            "ratDef": "97",
+            "ratOff": "85",
+            "ratTalent": "97",
+            "ratDiscipline": "97",
+            "ratPot": "56"
+          }
         },        
         {
           "name": "Georgia",
@@ -106,11 +123,11 @@
         },        
         {
           "name": "Tennessee",
-          "abbreviation": "TENN",
+          "abbreviation": "TEN",
           "prestige": "76",
           "hexColor": "FF8200",
           "state": "Tennessee",
-          "rival": "MSST",
+          "rival": "VAN",
           "headCoach": 
           {
             "name": "Jeremy Pruitt",
@@ -135,7 +152,7 @@
           "prestige": "85",
           "hexColor": "461D7C",
           "state": "Louisiana",
-          "rival": "TAMU",
+          "rival": "ARK",
           "headCoach": 
           {
             "name": "Ed Orgeron",
@@ -155,62 +172,12 @@
           }
         },        
         {
-          "name": "Kentucky",
-          "abbreviation": "UK",
-          "prestige": "68",
-          "hexColor": "0033A0",
-          "state": "Kentucky",
-          "rival": "MIZZ",
-          "headCoach": 
-          {
-            "name": "Mark Stoops",
-            "age": "52",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "6",
-            "homeState": "Mississippi",
-            "baselinePrestige": "64",
-            "cumulativePrestige": "0",
-            "ratOvr": "74",
-            "ratDef": "65",
-            "ratOff": "68",
-            "ratTalent": "68",
-            "ratDiscipline": "95",
-            "ratPot": "75"
-          }
-        },        
-        {
-          "name": "Missouri",
-          "abbreviation": "MIZZ",
-          "prestige": "72",
-          "hexColor": "000000",
-          "state": "Missouri",
-          "rival": "UK",
-          "headCoach": 
-          {
-            "name": "Barry Odom",
-            "age": "42",
-            "startYear": "2019",
-            "contractYear": "1",
-            "contractLength": "5",
-            "homeState": "Texas",
-            "baselinePrestige": "65",
-            "cumulativePrestige": "0",
-            "ratOvr": "69",
-            "ratDef": "65",
-            "ratOff": "72",
-            "ratTalent": "68",
-            "ratDiscipline": "70",
-            "ratPot": "86"
-          }
-        },        
-        {
           "name": "Mississippi State",
           "abbreviation": "MSST",
           "prestige": "69",
           "hexColor": "660000",
           "state": "Mississippi",
-          "rival": "TENN",
+          "rival": "MISS",
           "headCoach": 
           {
             "name": "Joe Moorhead",
@@ -255,31 +222,39 @@
           }
         },        
         {
-          "name": "Texas A&M",
-          "abbreviation": "TAMU",
-          "prestige": "83",
-          "hexColor": "500000",
-          "state": "Texas",
-          "rival": "LSU",
-          "headCoach": 
-          {
-            "name": "Jimbo Fisher",
-            "age": "53",
-            "startYear": "2019",
-            "contractYear": "1",
-            "contractLength": "5",
-            "homeState": "Arizona",
-            "baselinePrestige": "67",
-            "cumulativePrestige": "9",
-            "ratOvr": "76",
-            "ratDef": "74",
-            "ratOff": "80",
-            "ratTalent": "80",
-            "ratDiscipline": "70",
-            "ratPot": "65"
-          }
+          "name": "Arkansas",
+          "abbreviation": "ARK",
+          "prestige": "71",
+          "hexColor": "9D2235",
+          "state": "Arkansas",
+          "rival": "LSU"
+        },        
+        {
+          "name": "Vanderbilt",
+          "abbreviation": "VAN",
+          "prestige": "64",
+          "hexColor": "D8AB4C",
+          "state": "Tennessee",
+          "rival": "TEN"
+        },        
+        {
+          "name": "Ole Miss",
+          "abbreviation": "MISS",
+          "prestige": "69",
+          "hexColor": "CE1126",
+          "state": "Mississippi",
+          "rival": "MSST"
         }
       ]
+
+
+
+
+
+
+
+
+
     },    
     {
       "confName": "B1G",
