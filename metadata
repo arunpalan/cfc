@@ -127,7 +127,7 @@
           "prestige": "76",
           "hexColor": "FF8200",
           "state": "Tennessee",
-          "rival": "VAN",
+          "rival": "MSST",
           "headCoach": 
           {
             "name": "Jeremy Pruitt",
@@ -152,7 +152,7 @@
           "prestige": "85",
           "hexColor": "461D7C",
           "state": "Louisiana",
-          "rival": "ARK",
+          "rival": "TAMU",
           "headCoach": 
           {
             "name": "Ed Orgeron",
@@ -172,12 +172,62 @@
           }
         },        
         {
+          "name": "Kentucky",
+          "abbreviation": "UK",
+          "prestige": "68",
+          "hexColor": "0033A0",
+          "state": "Kentucky",
+          "rival": "MIZZ",
+          "headCoach": 
+          {
+            "name": "Mark Stoops",
+            "age": "52",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Mississippi",
+            "baselinePrestige": "64",
+            "cumulativePrestige": "0",
+            "ratOvr": "74",
+            "ratDef": "65",
+            "ratOff": "68",
+            "ratTalent": "68",
+            "ratDiscipline": "95",
+            "ratPot": "75"
+          }
+        },        
+        {
+          "name": "Missouri",
+          "abbreviation": "MIZZ",
+          "prestige": "72",
+          "hexColor": "000000",
+          "state": "Missouri",
+          "rival": "UK",
+          "headCoach": 
+          {
+            "name": "Barry Odom",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "1",
+            "contractLength": "5",
+            "homeState": "Texas",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "69",
+            "ratDef": "65",
+            "ratOff": "72",
+            "ratTalent": "68",
+            "ratDiscipline": "70",
+            "ratPot": "86"
+          }
+        },        
+        {
           "name": "Mississippi State",
           "abbreviation": "MSST",
           "prestige": "69",
           "hexColor": "660000",
           "state": "Mississippi",
-          "rival": "MISS",
+          "rival": "TENN",
           "headCoach": 
           {
             "name": "Joe Moorhead",
@@ -222,28 +272,28 @@
           }
         },        
         {
-          "name": "Arkansas",
-          "abbreviation": "ARK",
-          "prestige": "71",
-          "hexColor": "9D2235",
-          "state": "Arkansas",
+          "name": "Texas A&M",
+          "abbreviation": "TAMU",
+          "prestige": "83",
+          "hexColor": "500000",
+          "state": "Texas",
           "rival": "LSU",
-        },        
-        {
-          "name": "Vanderbilt",
-          "abbreviation": "VAND",
-          "prestige": "64",
-          "hexColor": "D8AB4C",
-          "state": "Arkansas",
-          "rival": "LSU",
-        },        
-        {
-          "name": "Ole Miss",
-          "abbreviation": "MISS",
-          "prestige": "69",
-          "hexColor": "CE1126",
-          "state": "Mississippi",
-          "rival": "MSST",
+          "headCoach": 
+          {
+            "name": "Jimbo Fisher",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "1",
+            "contractLength": "5",
+            "homeState": "Arizona",
+            "baselinePrestige": "67",
+            "cumulativePrestige": "9",
+            "ratOvr": "76",
+            "ratDef": "74",
+            "ratOff": "80",
+            "ratTalent": "80",
+            "ratDiscipline": "70",
+            "ratPot": "65"
           }
         }
       ]
@@ -255,7 +305,7 @@
       "confTeams": 
       [        
         {
-"name": "Michigan",
+          "name": "Michigan",
           "abbreviation": "UM",
           "prestige": "84",
           "hexColor": "00274C",
@@ -405,222 +455,6 @@
           }
         },        
         {
-          "name": "Purdue",
-          "abbreviation": "PUR",
-          "prestige": "68",
-          "hexColor": "CEB888",
-          "state": "Indiana",
-          "rival": "IU",
-          "headCoach": 
-          {
-            "name": "Jeff Brohm",
-            "age": "48",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "7",
-            "homeState": "Kentucky",
-            "baselinePrestige": "65",
-            "cumulativePrestige": "18",
-            "ratOvr": "74",
-            "ratDef": "73",
-            "ratOff": "76",
-            "ratTalent": "68",
-            "ratDiscipline": "79",
-            "ratPot": "70"
-          }
-        },        
-        {
-          "name": "Northwestern",
-          "abbreviation": "NW",
-          "prestige": "75",
-          "hexColor": "4E2A84",
-          "state": "Illinois",
-          "rival": "MD",
-          "headCoach": 
-          {
-            "name": "Pat Fitzgerald",
-            "age": "49",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "7",
-            "homeState": "Illinois",
-            "baselinePrestige": "70",
-            "cumulativePrestige": "80",
-            "ratOvr": "78",
-            "ratDef": "80",
-            "ratOff": "78",
-            "ratTalent": "75",
-            "ratDiscipline": "80",
-            "ratPot": "78"
-          }
-        },        
-        {
-          "name": "Indiana",
-          "abbreviation": "IU",
-          "prestige": "66",
-          "hexColor": "EDEBEB",
-          "state": "Indiana",
-          "rival": "PUR",
-        },        
-        {
-          "name": "Maryland",
-          "abbreviation": "MD",
-          "prestige": "71",
-          "hexColor": "E03A3E",
-          "state": "Maryland",
-          "rival": "NW",
-          }
-        }
-      ]
-    },    
-    {
-      "confName": "XII",
-      "confFullName": "Big 12",
-      "confPrestige": "79",
-      "confTeams": 
-      [        
-        {
-          "name": "Missouri",
-          "abbreviation": "MIZZ",
-          "prestige": "75",
-          "hexColor": "000000",
-          "state": "Missouri",
-          "rival": "KU",
-          "headCoach": 
-          {
-            "name": "Barry Odom",
-            "age": "42",
-            "startYear": "2019",
-            "contractYear": "1",
-            "contractLength": "5",
-            "homeState": "Texas",
-            "baselinePrestige": "65",
-            "cumulativePrestige": "0",
-            "ratOvr": "69",
-            "ratDef": "65",
-            "ratOff": "72",
-            "ratTalent": "68",
-            "ratDiscipline": "70",
-            "ratPot": "86"
-          }
-        },        
-        {
-          "name": "Illinois",
-          "abbreviation": "ILL",
-          "prestige": "69",
-          "hexColor": "FF552E",
-          "state": "Illinois",
-          "rival": "KSU",
-        },        
-        {
-          "name": "Nebraska",
-          "abbreviation": "NEB",
-          "prestige": "78",
-          "hexColor": "E41C38",
-          "state": "Nebraska",
-          "rival": "COLO",
-          "headCoach": 
-          {
-            "name": "Scott Frost",
-            "age": "44",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "7",
-            "homeState": "Nebraska",
-            "baselinePrestige": "64",
-            "cumulativePrestige": "15",
-            "ratOvr": "75",
-            "ratDef": "76",
-            "ratOff": "80",
-            "ratTalent": "68",
-            "ratDiscipline": "75",
-            "ratPot": "77"
-          }
-        },        
-        {
-          "name": "Colorado",
-          "abbreviation": "COLO",
-          "prestige": "77",
-          "hexColor": "CFB87C",
-          "state": "Colorado",
-          "rival": "NEB",
-        },        
-        {
-          "name": "Utah",
-          "abbreviation": "UTAH",
-          "prestige": "80",
-          "hexColor": "CC0000",
-          "state": "Utah",
-          "rival": "BYU",
-          "headCoach": 
-          {
-            "name": "Kyle Whittingham",
-            "age": "59",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "7",
-            "homeState": "California",
-            "baselinePrestige": "70",
-            "cumulativePrestige": "30",
-            "ratOvr": "72",
-            "ratDef": "73",
-            "ratOff": "66",
-            "ratTalent": "72",
-            "ratDiscipline": "76",
-            "ratPot": "61"
-          }
-        },        
-        {
-          "name": "Iowa State",
-          "abbreviation": "ISU",
-          "prestige": "70",
-          "hexColor": "C8102E",
-          "state": "Iowa",
-          "rival": "TTU",
-          "headCoach": 
-          {
-            "name": "Matt Campbell",
-            "age": "39",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "2",
-            "homeState": "Ohio",
-            "baselinePrestige": "73",
-            "cumulativePrestige": "10",
-            "ratOvr": "70",
-            "ratDef": "70",
-            "ratOff": "76",
-            "ratTalent": "70",
-            "ratDiscipline": "65",
-            "ratPot": "76"
-          }
-        },        
-        {
-          "name": "Brigham Young",
-          "abbreviation": "BYU",
-          "prestige": "73",
-          "hexColor": "002E5D",
-          "state": "Utah",
-          "rival": "UTAH",
-          "headCoach": 
-          {
-            "name": "Roman Rhodes",
-            "age": "36",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "4",
-            "homeState": "Texas",
-            "baselinePrestige": "50",
-            "cumulativePrestige": "0",
-            "ratOvr": "57",
-            "ratDef": "62",
-            "ratOff": "63",
-            "ratTalent": "47",
-            "ratDiscipline": "79",
-            "ratPot": "61"
-          }
-        },        
-        {
           "name": "Iowa",
           "abbreviation": "IOWA",
           "prestige": "78",
@@ -646,61 +480,86 @@
           }
         },        
         {
-          "name": "Kansas State",
-          "abbreviation": "KSU",
-          "prestige": "67",
-          "hexColor": "512888",
-          "state": "Kansas",
-          "rival": "ILL",
+          "name": "Nebraska",
+          "abbreviation": "NEB",
+          "prestige": "69",
+          "hexColor": "E41C38",
+          "state": "Nebraska",
+          "rival": "IOWA",
           "headCoach": 
           {
-            "name": "Chris Klieman",
-            "age": "51",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "5",
-            "homeState": "Iowa",
-            "baselinePrestige": "63",
-            "cumulativePrestige": "0",
-            "ratOvr": "72",
-            "ratDef": "62",
-            "ratOff": "79",
-            "ratTalent": "71",
-            "ratDiscipline": "77",
-            "ratPot": "74"
-          }
-        },        
-        {
-          "name": "Kansas",
-          "abbreviation": "KU",
-          "prestige": "59",
-          "hexColor": "0051BA",
-          "state": "Kansas",
-          "rival": "MIZZ",
-          "headCoach": 
-          {
-            "name": "Les Miles",
-            "age": "55",
+            "name": "Scott Frost",
+            "age": "44",
             "startYear": "2019",
             "contractYear": "0",
             "contractLength": "7",
-            "homeState": "Ohio",
-            "baselinePrestige": "54",
+            "homeState": "Nebraska",
+            "baselinePrestige": "64",
             "cumulativePrestige": "15",
-            "ratOvr": "76",
-            "ratDef": "79",
-            "ratOff": "82",
-            "ratTalent": "71",
-            "ratDiscipline": "70",
-            "ratPot": "69"
+            "ratOvr": "75",
+            "ratDef": "76",
+            "ratOff": "80",
+            "ratTalent": "68",
+            "ratDiscipline": "75",
+            "ratPot": "77"
+          }
+        },        
+        {
+          "name": "Purdue",
+          "abbreviation": "PUR",
+          "prestige": "68",
+          "hexColor": "CEB888",
+          "state": "Indiana",
+          "rival": "NW",
+          "headCoach": 
+          {
+            "name": "Jeff Brohm",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Kentucky",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "18",
+            "ratOvr": "74",
+            "ratDef": "73",
+            "ratOff": "76",
+            "ratTalent": "68",
+            "ratDiscipline": "79",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Northwestern",
+          "abbreviation": "NW",
+          "prestige": "75",
+          "hexColor": "4E2A84",
+          "state": "Illinois",
+          "rival": "PUR",
+          "headCoach": 
+          {
+            "name": "Pat Fitzgerald",
+            "age": "49",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Illinois",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "80",
+            "ratOvr": "78",
+            "ratDef": "80",
+            "ratOff": "78",
+            "ratTalent": "75",
+            "ratDiscipline": "80",
+            "ratPot": "78"
           }
         }
       ]
-    },   
+    },    
     {
-      "confName": "SWC",
-      "confFullName": "Southwest",
-      "confPrestige": "89",
+      "confName": "XII",
+      "confFullName": "Big 12",
+      "confPrestige": "88",
       "confTeams": 
       [        
         {
@@ -709,7 +568,7 @@
           "prestige": "88",
           "hexColor": "841617",
           "state": "Oklahoma",
-          "rival": "OKST",
+          "rival": "UT",
           "headCoach": 
           {
             "name": "Lincoln Riley",
@@ -734,7 +593,7 @@
           "prestige": "84",
           "hexColor": "BF5700",
           "state": "Texas",
-          "rival": "TAMU",
+          "rival": "OU",
           "headCoach": 
           {
             "name": "Tom Herman",
@@ -754,28 +613,28 @@
           }
         },        
         {
-          "name": "Houston",
-          "abbreviation": "HOU",
-          "prestige": "70",
-          "hexColor": "C8102E",
-          "state": "Texas",
-          "rival": "SMU",
+          "name": "West Virginia",
+          "abbreviation": "WVU",
+          "prestige": "78",
+          "hexColor": "EAAA00",
+          "state": "West Virginia",
+          "rival": "OKST",
           "headCoach": 
           {
-            "name": "Nic Buggs",
-            "age": "50",
+            "name": "Neal Brown",
+            "age": "39",
             "startYear": "2019",
             "contractYear": "0",
-            "contractLength": "2",
-            "homeState": "Nevada",
-            "baselinePrestige": "62",
+            "contractLength": "6",
+            "homeState": "Kentucky",
+            "baselinePrestige": "74",
             "cumulativePrestige": "0",
-            "ratOvr": "73",
-            "ratDef": "67",
-            "ratOff": "64",
-            "ratTalent": "65",
-            "ratDiscipline": "80",
-            "ratPot": "65"
+            "ratOvr": "75",
+            "ratDef": "71",
+            "ratOff": "77",
+            "ratTalent": "79",
+            "ratDiscipline": "73",
+            "ratPot": "84"
           }
         },        
         {
@@ -806,7 +665,7 @@
         {
           "name": "Baylor",
           "abbreviation": "BAYL",
-          "prestige": "74",
+          "prestige": "75",
           "hexColor": "003015",
           "state": "Texas",
           "rival": "TCU",
@@ -829,28 +688,28 @@
           }
         },        
         {
-          "name": "Southern Methodist",
-          "abbreviation": "SMU",
-          "prestige": "73",
+          "name": "Iowa State",
+          "abbreviation": "ISU",
+          "prestige": "70",
           "hexColor": "C8102E",
-          "state": "Texas",
-          "rival": "HOU",
+          "state": "Iowa",
+          "rival": "TTU",
           "headCoach": 
           {
-            "name": "Curtis Herimann",
-            "age": "35",
+            "name": "Matt Campbell",
+            "age": "39",
             "startYear": "2019",
             "contractYear": "0",
-            "contractLength": "7",
-            "homeState": "Pennsylvania",
-            "baselinePrestige": "59",
-            "cumulativePrestige": "0",
-            "ratOvr": "62",
-            "ratDef": "59",
-            "ratOff": "62",
-            "ratTalent": "69",
-            "ratDiscipline": "69",
-            "ratPot": "70"
+            "contractLength": "2",
+            "homeState": "Ohio",
+            "baselinePrestige": "73",
+            "cumulativePrestige": "10",
+            "ratOvr": "70",
+            "ratDef": "70",
+            "ratOff": "76",
+            "ratTalent": "70",
+            "ratDiscipline": "65",
+            "ratPot": "76"
           }
         },        
         {
@@ -859,7 +718,7 @@
           "prestige": "71",
           "hexColor": "000000",
           "state": "Texas",
-          "rival": "RICE",
+          "rival": "ISU",
           "headCoach": 
           {
             "name": "Matt Wells",
@@ -881,10 +740,10 @@
         {
           "name": "Oklahoma State",
           "abbreviation": "OKST",
-          "prestige": "75",
+          "prestige": "76",
           "hexColor": "FF7300",
           "state": "Oklahoma",
-          "rival": "OU",
+          "rival": "WVU",
           "headCoach": 
           {
             "name": "Mike Gundy",
@@ -904,44 +763,61 @@
           }
         },        
         {
-"name": "Texas A&M",
-          "abbreviation": "TAMU",
-          "prestige": "83",
-          "hexColor": "500000",
-          "state": "Texas",
-          "rival": "LSU",
+          "name": "Kansas State",
+          "abbreviation": "KSU",
+          "prestige": "68",
+          "hexColor": "512888",
+          "state": "Kansas",
+          "rival": "KU",
           "headCoach": 
           {
-            "name": "Jimbo Fisher",
-            "age": "53",
+            "name": "Chris Klieman",
+            "age": "51",
             "startYear": "2019",
-            "contractYear": "1",
+            "contractYear": "0",
             "contractLength": "5",
-            "homeState": "Arizona",
-            "baselinePrestige": "67",
-            "cumulativePrestige": "9",
-            "ratOvr": "76",
-            "ratDef": "74",
-            "ratOff": "80",
-            "ratTalent": "80",
-            "ratDiscipline": "70",
-            "ratPot": "65"
+            "homeState": "Iowa",
+            "baselinePrestige": "63",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "62",
+            "ratOff": "79",
+            "ratTalent": "71",
+            "ratDiscipline": "77",
+            "ratPot": "74"
           }
         },        
         {
-          "name": "Rice",
-          "abbreviation": "RICE",
-          "prestige": "50",
-          "hexColor": "00205B",
-          "state": "Texas",
-          "rival": "TTU",
+          "name": "Kansas",
+          "abbreviation": "KU",
+          "prestige": "59",
+          "hexColor": "0051BA",
+          "state": "Kansas",
+          "rival": "KSU",
+          "headCoach": 
+          {
+            "name": "Les Miles",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Ohio",
+            "baselinePrestige": "54",
+            "cumulativePrestige": "15",
+            "ratOvr": "76",
+            "ratDef": "79",
+            "ratOff": "82",
+            "ratTalent": "71",
+            "ratDiscipline": "70",
+            "ratPot": "69"
+          }
         }
       ]
     },    
     {
       "confName": "ACC",
       "confFullName": "Atlantic Coastal Conference",
-      "confPrestige": "90",
+      "confPrestige": "88",
       "confTeams": 
       [        
         {
@@ -950,7 +826,7 @@
           "prestige": "94",
           "hexColor": "F56600",
           "state": "South Carolina",
-          "rival": "SCAR",
+          "rival": "GT",
           "headCoach": 
           {
             "name": "Dabo Swinney",
@@ -970,20 +846,54 @@
           }
         },        
         {
-          "name": "South Carolina",
-          "abbreviation": "SCAR",
+          "name": "Pittsburgh",
+          "abbreviation": "PITT",
           "prestige": "77",
-          "hexColor": "73000A",
-          "state": "South Carolina",
-          "rival": "CLEM",
+          "hexColor": "003594",
+          "state": "Pennsylvania",
+          "rival": "CUSE",
+          "headCoach": 
+          {
+            "name": "Pat Narduzzi",
+            "age": "53",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Connecticut",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "15",
+            "ratOvr": "76",
+            "ratDef": "74",
+            "ratOff": "78",
+            "ratTalent": "70",
+            "ratDiscipline": "80",
+            "ratPot": "78"
+          }
         },        
         {
-          "name": "North Carolina State",
-          "abbreviation": "NCST",
-          "prestige": "71",
+          "name": "Virginia Tech",
+          "abbreviation": "VT",
+          "prestige": "75",
           "hexColor": "630031",
-          "state": "North Carolina",
-          "rival": "WAKE",
+          "state": "Virginia",
+          "rival": "UVA",
+          "headCoach": 
+          {
+            "name": "Justin Fuente",
+            "age": "43",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "72",
+            "cumulativePrestige": "5",
+            "ratOvr": "71",
+            "ratDef": "69",
+            "ratOff": "77",
+            "ratTalent": "67",
+            "ratDiscipline": "69",
+            "ratPot": "80"
+          }
         },        
         {
           "name": "Georgia Tech",
@@ -991,7 +901,7 @@
           "prestige": "76",
           "hexColor": "B3A369",
           "state": "Georgia",
-          "rival": "UVA",
+          "rival": "CLEM",
           "headCoach": 
           {
             "name": "Geoff Collins",
@@ -1038,7 +948,7 @@
         {
           "name": "Miami",
           "abbreviation": "MIA",
-          "prestige": "81",
+          "prestige": "79",
           "hexColor": "005030",
           "state": "Florida",
           "rival": "FSU",
@@ -1061,28 +971,79 @@
           }
         },        
         {
-          "name": "Duke",
-          "abbreviation": "DUKE",
-          "prestige": "68",
+          "name": "Notre Dame",
+          "abbreviation": "ND",
+          "prestige": "87",
           "hexColor": "0C2340",
-          "state": "North Carolina",
-          "rival": "UNC",
+          "state": "Indiana",
+          "rival": "BC",
+          "headCoach": 
+          {
+            "name": "Brian Kelly",
+            "age": "57",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "6",
+            "homeState": "Georgia",
+            "baselinePrestige": "75",
+            "cumulativePrestige": "35",
+            "ratOvr": "83",
+            "ratDef": "83",
+            "ratOff": "75",
+            "ratTalent": "86",
+            "ratDiscipline": "88",
+            "ratPot": "64"
+          }
         },        
         {
-          "name": "North Carolina",
-          "abbreviation": "UNC",
-          "prestige": "73",
-          "hexColor": "4B9CD3",
-          "state": "North Carolina",
-          "rival": "DUKE",
+          "name": "Boston College",
+          "abbreviation": "BC",
+          "prestige": "68",
+          "hexColor": "98002E",
+          "state": "Massachusetts",
+          "rival": "ND",
+          "headCoach": 
+          {
+            "name": "Steve Addazio",
+            "age": "60",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "Vermont",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "0",
+            "ratOvr": "77",
+            "ratDef": "70",
+            "ratOff": "75",
+            "ratTalent": "81",
+            "ratDiscipline": "80",
+            "ratPot": "58"
+          }
         },        
         {
-          "name": "Wake Forest",
-          "abbreviation": "WAKE",
-          "prestige": "64",
-          "hexColor": "000000",
-          "state": "North Carolina",
-          "rival": "NCST",
+          "name": "Syracuse",
+          "abbreviation": "CUSE",
+          "prestige": "72",
+          "hexColor": "D44500",
+          "state": "New York",
+          "rival": "PITT",
+          "headCoach": 
+          {
+            "name": "Dino Babers",
+            "age": "58",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Hawaii",
+            "baselinePrestige": "65",
+            "cumulativePrestige": "15",
+            "ratOvr": "75",
+            "ratDef": "69",
+            "ratOff": "79",
+            "ratTalent": "79",
+            "ratDiscipline": "73",
+            "ratPot": "64"
+          }
         },        
         {
           "name": "Virginia",
@@ -1090,7 +1051,7 @@
           "prestige": "70",
           "hexColor": "F84C1E",
           "state": "Virginia",
-          "rival": "GT",
+          "rival": "VT",
           "headCoach": 
           {
             "name": "Bronco Mendenhall",
@@ -1114,7 +1075,7 @@
     {
       "confName": "PAC",
       "confFullName": "Pac 12",
-      "confPrestige": "84",
+      "confPrestige": "85",
       "confTeams": 
       [        
         {
@@ -1318,12 +1279,29 @@
           }
         },        
         {
-          "name": "Arizona",
-          "abbreviation": "ZONA",
-          "prestige": "68",
-          "hexColor": "AB0520",
-          "state": "Arizona",
+          "name": "Utah",
+          "abbreviation": "UTAH",
+          "prestige": "80",
+          "hexColor": "CC0000",
+          "state": "Utah",
           "rival": "ASU",
+          "headCoach": 
+          {
+            "name": "Kyle Whittingham",
+            "age": "59",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "California",
+            "baselinePrestige": "70",
+            "cumulativePrestige": "30",
+            "ratOvr": "72",
+            "ratDef": "73",
+            "ratOff": "66",
+            "ratTalent": "72",
+            "ratDiscipline": "76",
+            "ratPot": "61"
+          }
         },        
         {
           "name": "Arizona State",
@@ -1331,7 +1309,7 @@
           "prestige": "70",
           "hexColor": "8C1D40",
           "state": "Arizona",
-          "rival": "ZONA",
+          "rival": "UTAH",
           "headCoach": 
           {
             "name": "Herm Edwards",
@@ -1431,6 +1409,7 @@
             "ratTalent": "70",
             "ratDiscipline": "75",
             "ratPot": "70"
+          }
         },        
         {
           "name": "Memphis",
@@ -1438,7 +1417,7 @@
           "prestige": "64",
           "hexColor": "898D8D",
           "state": "Tennessee",
-          "rival": “CIN",
+          "rival": "CIN",
           "headCoach": 
           {
             "name": "Richard Miller",
@@ -1458,20 +1437,37 @@
           }
         },        
         {
-          "name": "East Carolina",
-          "abbreviation": “ECU",
-          "prestige": "58",
+          "name": "UConn",
+          "abbreviation": "CONN",
+          "prestige": "50",
           "hexColor": "000E24",
-          "state": “North Carolina",
+          "state": "Connecticut",
           "rival": "TEM",
+          "headCoach": 
+          {
+            "name": "Glen Klemens",
+            "age": "34",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "5",
+            "homeState": "New York",
+            "baselinePrestige": "59",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "73",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "75",
+            "ratPot": "70"
+          }
         },        
         {
           "name": "Temple",
           "abbreviation": "TEM",
-          "prestige": "59",
+          "prestige": "61",
           "hexColor": "9D2235",
           "state": "Pennsylvania",
-          "rival": "ECU",
+          "rival": "CONN",
           "headCoach": 
           {
             "name": "Brian Baston",
@@ -1491,25 +1487,59 @@
           }
         },        
         {
-          "name": "Army",
-          "abbreviation": "ARMY",
-          "prestige": "48",
-          "hexColor": "D4BF91",
-          "state": "Indiana",
-          "rival": "NAVY",
+          "name": "Houston",
+          "abbreviation": "HOU",
+          "prestige": "63",
+          "hexColor": "C8102E",
+          "state": "Texas",
+          "rival": "SMU",
+          "headCoach": 
+          {
+            "name": "Nic Buggs",
+            "age": "50",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "2",
+            "homeState": "Nevada",
+            "baselinePrestige": "62",
+            "cumulativePrestige": "0",
+            "ratOvr": "73",
+            "ratDef": "67",
+            "ratOff": "64",
+            "ratTalent": "65",
+            "ratDiscipline": "80",
+            "ratPot": "65"
+          }
         },        
         {
-          "name": "Navy",
-          "abbreviation": "NAVY",
-          "prestige": "50",
-          "hexColor": "00205B",
-          "state": "Maryland",
-          "rival": "ARMY",
+          "name": "Southern Methodist",
+          "abbreviation": "SMU",
+          "prestige": "60",
+          "hexColor": "C8102E",
+          "state": "Texas",
+          "rival": "HOU",
+          "headCoach": 
+          {
+            "name": "Curtis Herimann",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Pennsylvania",
+            "baselinePrestige": "59",
+            "cumulativePrestige": "0",
+            "ratOvr": "62",
+            "ratDef": "59",
+            "ratOff": "62",
+            "ratTalent": "69",
+            "ratDiscipline": "69",
+            "ratPot": "70"
+          }
         },        
         {
           "name": "Tulane",
           "abbreviation": "TUL",
-          "prestige": "60",
+          "prestige": "61",
           "hexColor": "006747",
           "state": "Louisiana",
           "rival": "TULS",
@@ -1534,7 +1564,7 @@
         {
           "name": "Tulsa",
           "abbreviation": "TULS",
-          "prestige": "61",
+          "prestige": "60",
           "hexColor": "002D72",
           "state": "Oklahoma",
           "rival": "TUL",
@@ -1555,230 +1585,6 @@
             "ratDiscipline": "75",
             "ratPot": "68"
           }
-        }
-      ]
-    },    
-    {
-      "confName": "BE",
-      "confFullName": "Big East",
-      "confPrestige": "83",
-      "confTeams": 
-      [        
-        {
-          "name": "West Virginia",
-          "abbreviation": "WVU",
-          "prestige": "72",
-          "hexColor": "EAAA00",
-          "state": "West Virginia",
-          "rival": "PITT",
-          "headCoach": 
-          {
-            "name": "Neal Brown",
-            "age": "39",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "6",
-            "homeState": "Kentucky",
-            "baselinePrestige": "74",
-            "cumulativePrestige": "0",
-            "ratOvr": "75",
-            "ratDef": "71",
-            "ratOff": "77",
-            "ratTalent": "79",
-            "ratDiscipline": "73",
-            "ratPot": "84"
-          }
-        },        
-        {
-          "name": "Pittsburgh",
-          "abbreviation": "PITT",
-          "prestige": "77",
-          "hexColor": "003594",
-          "state": "Pennsylvania",
-          "rival": "WVU",
-          "headCoach": 
-          {
-            "name": "Pat Narduzzi",
-            "age": "53",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "2",
-            "homeState": "Connecticut",
-            "baselinePrestige": "70",
-            "cumulativePrestige": "15",
-            "ratOvr": "76",
-            "ratDef": "74",
-            "ratOff": "78",
-            "ratTalent": "70",
-            "ratDiscipline": "80",
-            "ratPot": "78"
-          }
-        },        
-        {
-          "name": "Virginia Tech",
-          "abbreviation": "VT",
-          "prestige": "75",
-          "hexColor": "630031",
-          "state": "Virginia",
-          "rival": "CUSE",
-          "headCoach": 
-          {
-            "name": "Justin Fuente",
-            "age": "43",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "2",
-            "homeState": "Oklahoma",
-            "baselinePrestige": "72",
-            "cumulativePrestige": "5",
-            "ratOvr": "71",
-            "ratDef": "69",
-            "ratOff": "77",
-            "ratTalent": "67",
-            "ratDiscipline": "69",
-            "ratPot": "80"
-          }
-        },        
-        {
-          "name": "Rutgers",
-          "abbreviation": "RUTG",
-          "prestige": "61",
-          "hexColor": "CC0033",
-          "state": "New Jersey",
-          "rival": "CONN",
-        },        
-        {
-          "name": "UConn",
-          "abbreviation": "CONN",
-          "prestige": "50",
-          "hexColor": "000E24",
-          "state": "Connecticut",
-          "rival": "RUTG",
-          "headCoach": 
-          {
-            "name": "Glen Klemens",
-            "age": "34",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "5",
-            "homeState": "New York",
-            "baselinePrestige": "59",
-            "cumulativePrestige": "0",
-            "ratOvr": "64",
-            "ratDef": "73",
-            "ratOff": "63",
-            "ratTalent": "47",
-            "ratDiscipline": "75",
-            "ratPot": "70"
-          }
-        },        
-        {
-          "name": "Kentucky",
-          "abbreviation": "UK",
-          "prestige": "70",
-          "hexColor": "0033A0",
-          "state": "Kentucky",
-          "rival": "LOU",
-          "headCoach": 
-          {
-            "name": "Mark Stoops",
-            "age": "52",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "6",
-            "homeState": "Mississippi",
-            "baselinePrestige": "64",
-            "cumulativePrestige": "0",
-            "ratOvr": "74",
-            "ratDef": "65",
-            "ratOff": "68",
-            "ratTalent": "68",
-            "ratDiscipline": "95",
-            "ratPot": "75"
-          }
-        },        
-        {
-          "name": "Notre Dame",
-          "abbreviation": "ND",
-          "prestige": "87",
-          "hexColor": "0C2340",
-          "state": "Indiana",
-          "rival": "BC",
-          "headCoach": 
-          {
-            "name": "Brian Kelly",
-            "age": "57",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "6",
-            "homeState": "Georgia",
-            "baselinePrestige": "75",
-            "cumulativePrestige": "35",
-            "ratOvr": "83",
-            "ratDef": "83",
-            "ratOff": "75",
-            "ratTalent": "86",
-            "ratDiscipline": "88",
-            "ratPot": "64"
-          }
-        },        
-        {
-          "name": "Boston College",
-          "abbreviation": "BC",
-          "prestige": "67",
-          "hexColor": "98002E",
-          "state": "Massachusetts",
-          "rival": "ND",
-          "headCoach": 
-          {
-            "name": "Steve Addazio",
-            "age": "60",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "5",
-            "homeState": "Vermont",
-            "baselinePrestige": "65",
-            "cumulativePrestige": "0",
-            "ratOvr": "77",
-            "ratDef": "70",
-            "ratOff": "75",
-            "ratTalent": "81",
-            "ratDiscipline": "80",
-            "ratPot": "58"
-          }
-        },        
-        {
-          "name": "Syracuse",
-          "abbreviation": "CUSE",
-          "prestige": "68",
-          "hexColor": "D44500",
-          "state": "New York",
-          "rival": "VT",
-          "headCoach": 
-          {
-            "name": "Dino Babers",
-            "age": "58",
-            "startYear": "2019",
-            "contractYear": "0",
-            "contractLength": "2",
-            "homeState": "Hawaii",
-            "baselinePrestige": "65",
-            "cumulativePrestige": "15",
-            "ratOvr": "75",
-            "ratDef": "69",
-            "ratOff": "79",
-            "ratTalent": "79",
-            "ratDiscipline": "73",
-            "ratPot": "64"
-          }
-        },        
-        {
-          "name": "Louisville",
-          "abbreviation": "LOU",
-          "prestige": "70",
-          "hexColor": "000000",
-          "state": "Kentucky",
-          "rival": "UK",
         }
       ]
     },    
@@ -1839,20 +1645,37 @@
           }
         },        
         {
-          "name": "Nevada",
-          "abbreviation": "NEV",
-          "prestige": "55",
-          "hexColor": "807F84",
+          "name": "Brigham Young",
+          "abbreviation": "BYU",
+          "prestige": "62",
+          "hexColor": "002E5D",
           "state": "Utah",
-          "rival": "HAW",
+          "rival": "USU",
+          "headCoach": 
+          {
+            "name": "Roman Rhodes",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Texas",
+            "baselinePrestige": "50",
+            "cumulativePrestige": "0",
+            "ratOvr": "57",
+            "ratDef": "62",
+            "ratOff": "63",
+            "ratTalent": "47",
+            "ratDiscipline": "79",
+            "ratPot": "61"
+          }
         },        
         {
           "name": "Utah State",
           "abbreviation": "USU",
-          "prestige": "59",
+          "prestige": "57",
           "hexColor": "0F2439",
           "state": "Utah",
-          "rival": "WYO",
+          "rival": "BYU",
           "headCoach": 
           {
             "name": "Lloyd Clarke",
@@ -1877,7 +1700,7 @@
           "prestige": "52",
           "hexColor": "492F24",
           "state": "Wyoming",
-          "rival": "USU",
+          "rival": "CSU",
           "headCoach": 
           {
             "name": "Cameron Raatz",
@@ -1902,7 +1725,7 @@
           "prestige": "51",
           "hexColor": "1E4D2B",
           "state": "Colorado",
-          "rival": "AF",
+          "rival": "WYO",
           "headCoach": 
           {
             "name": "Alan Skalka",
@@ -1924,7 +1747,7 @@
         {
           "name": "San Diego State",
           "abbreviation": "SDST",
-          "prestige": "58",
+          "prestige": "54",
           "hexColor": "000000",
           "state": "California",
           "rival": "SJSU",
@@ -1977,7 +1800,7 @@
           "prestige": "52",
           "hexColor": "024731",
           "state": "Hawaii",
-          "rival": "NEV",
+          "rival": "AF",
           "headCoach": 
           {
             "name": "Nick Rolovich",
@@ -2002,7 +1825,7 @@
           "prestige": "48",
           "hexColor": "8A8D8F",
           "state": "Colorado",
-          "rival": "CSU",
+          "rival": "HAW",
           "headCoach": 
           {
             "name": "Marshall Hodgin",
@@ -2793,6 +2616,522 @@
             "ratTalent": "58",
             "ratDiscipline": "82",
             "ratPot": "64"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "MVFC",
+      "confFullName": "Missouri Valley FCS",
+      "confPrestige": "27",
+      "confTeams": 
+      [        
+        {
+          "name": "North Dakota State",
+          "abbreviation": "NDSU",
+          "hexColor": "0A5640",
+          "prestige": "28",
+          "state": "North Dakota",
+          "rival": "SDSU",
+          "headCoach": 
+          {
+            "name": "Hootie Santiesteban",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Montana",
+            "baselinePrestige": "23",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "45",
+            "ratOff": "40",
+            "ratTalent": "44",
+            "ratDiscipline": "78",
+            "ratPot": "73"
+          }
+        },        
+        {
+          "name": "South Dakota State",
+          "abbreviation": "SDSU",
+          "prestige": "29",
+          "hexColor": "FFD100",
+          "state": "South Dakota",
+          "rival": "NDSU",
+          "headCoach": 
+          {
+            "name": "Doug Kubacki",
+            "age": "34",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "West Virginia",
+            "baselinePrestige": "24",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "47",
+            "ratOff": "49",
+            "ratTalent": "46",
+            "ratDiscipline": "75",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Northern Iowa",
+          "abbreviation": "UNI",
+          "prestige": "25",
+          "hexColor": "4B116F",
+          "state": "Iowa",
+          "rival": "WIU",
+          "headCoach": 
+          {
+            "name": "Elliott Sedlack",
+            "age": "37",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Idaho",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "56",
+            "ratDef": "44",
+            "ratOff": "49",
+            "ratTalent": "46",
+            "ratDiscipline": "68",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "Indiana State",
+          "abbreviation": "INST",
+          "prestige": "30",
+          "hexColor": "0142BC",
+          "state": "Indiana",
+          "rival": "YSU",
+          "headCoach": 
+          {
+            "name": "Brad Rusteberg",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Connecticut",
+            "baselinePrestige": "25",
+            "cumulativePrestige": "0",
+            "ratOvr": "60",
+            "ratDef": "46",
+            "ratOff": "47",
+            "ratTalent": "43",
+            "ratDiscipline": "76",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Western Illinois",
+          "abbreviation": "WIU",
+          "prestige": "31",
+          "hexColor": "663399",
+          "state": "Illinois",
+          "rival": "UNI",
+          "headCoach": 
+          {
+            "name": "Lance Eclarinal",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Oregon",
+            "baselinePrestige": "26",
+            "cumulativePrestige": "0",
+            "ratOvr": "55",
+            "ratDef": "48",
+            "ratOff": "52",
+            "ratTalent": "41",
+            "ratDiscipline": "72",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Illinois State",
+          "abbreviation": "ILST",
+          "prestige": "25",
+          "hexColor": "CE1126",
+          "state": "Illinois",
+          "rival": "SD",
+          "headCoach": 
+          {
+            "name": "Roy Hedden",
+            "age": "55",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Texas",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "43",
+            "ratOff": "41",
+            "ratTalent": "41",
+            "ratDiscipline": "75",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Youngstown State",
+          "abbreviation": "YSU",
+          "prestige": "28",
+          "hexColor": "C8102E",
+          "state": "Virginia",
+          "rival": "INST",
+          "headCoach": 
+          {
+            "name": "Bo Pelini",
+            "age": "51",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "4",
+            "homeState": "Oklahoma",
+            "baselinePrestige": "23",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "70",
+            "ratOff": "56",
+            "ratTalent": "63",
+            "ratDiscipline": "69",
+            "ratPot": "63"
+          }
+        },        
+        {
+          "name": "Univ South Dakota",
+          "abbreviation": "SD",
+          "prestige": "25",
+          "hexColor": "AD0000",
+          "state": "South Dakota",
+          "rival": "ILST",
+          "headCoach": 
+          {
+            "name": "Vinnie Difebbo",
+            "age": "32",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Alaska",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "63",
+            "ratDef": "44",
+            "ratOff": "45",
+            "ratTalent": "45",
+            "ratDiscipline": "80",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Missouri State",
+          "abbreviation": "MOST",
+          "prestige": "25",
+          "hexColor": "5E0009",
+          "state": "Missouri",
+          "rival": "SILL",
+          "headCoach": 
+          {
+            "name": "Curtis Caliguire",
+            "age": "40",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Maine",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "64",
+            "ratDef": "40",
+            "ratOff": "49",
+            "ratTalent": "43",
+            "ratDiscipline": "74",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Southern Illinois",
+          "abbreviation": "SILL",
+          "prestige": "25",
+          "hexColor": "720000",
+          "state": "Illinois",
+          "rival": "MOST",
+          "headCoach": 
+          {
+            "name": "Mario Torsiello",
+            "age": "48",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Wyoming",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "67",
+            "ratDef": "49",
+            "ratOff": "48",
+            "ratTalent": "51",
+            "ratDiscipline": "68",
+            "ratPot": "78"
+          }
+        }
+      ]
+    },    
+    {
+      "confName": "CAA",
+      "confFullName": "Colonial Athletic FCS",
+      "confPrestige": "25",
+      "confTeams": 
+      [        
+        {
+          "name": "Maine",
+          "abbreviation": "MAI",
+          "prestige": "25",
+          "hexColor": "B0D7FF",
+          "state": "Maine",
+          "rival": "SBU",
+          "headCoach": 
+          {
+            "name": "Matt Alexander",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Iowa",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "72",
+            "ratDef": "70",
+            "ratOff": "58",
+            "ratTalent": "50",
+            "ratDiscipline": "73",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "James Madison",
+          "abbreviation": "JAME",
+          "prestige": "25",
+          "hexColor": "9E1B32",
+          "state": "Virginia",
+          "rival": "WM",
+          "headCoach": 
+          {
+            "name": "Leonard Calica",
+            "age": "38",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nevada",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "47",
+            "ratOff": "43",
+            "ratTalent": "42",
+            "ratDiscipline": "72",
+            "ratPot": "70"
+          }
+        },        
+        {
+          "name": "Stony Brook",
+          "abbreviation": "SBU",
+          "prestige": "25",
+          "hexColor": "990000",
+          "state": "New York",
+          "rival": "MAI",
+          "headCoach": 
+          {
+            "name": "Ali Beechum",
+            "age": "31",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Indiana",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "75",
+            "ratDef": "46",
+            "ratOff": "43",
+            "ratTalent": "47",
+            "ratDiscipline": "75",
+            "ratPot": "71"
+          }
+        },        
+        {
+          "name": "Towson",
+          "abbreviation": "TOWS",
+          "prestige": "25",
+          "hexColor": "FFBB00",
+          "state": "Maryland",
+          "rival": "DEL",
+          "headCoach": 
+          {
+            "name": "Austin Villifana",
+            "age": "30",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nevada",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "78",
+            "ratDef": "50",
+            "ratOff": "43",
+            "ratTalent": "48",
+            "ratDiscipline": "94",
+            "ratPot": "74"
+          }
+        },        
+        {
+          "name": "Delaware",
+          "abbreviation": "DEL",
+          "prestige": "25",
+          "hexColor": "00539F",
+          "state": "Delaware",
+          "rival": "TOWS",
+          "headCoach": 
+          {
+            "name": "Donovan Devenuto",
+            "age": "47",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Iowa",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "50",
+            "ratOff": "47",
+            "ratTalent": "47",
+            "ratDiscipline": "69",
+            "ratPot": "72"
+          }
+        },        
+        {
+          "name": "Elon",
+          "abbreviation": "ELON",
+          "prestige": "25",
+          "hexColor": "73000A",
+          "state": "North Carolina",
+          "rival": "NOVA",
+          "headCoach": 
+          {
+            "name": "Paul Goldfuss",
+            "age": "36",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "New Mexico",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "46",
+            "ratOff": "43",
+            "ratTalent": "72",
+            "ratDiscipline": "69",
+            "ratPot": "90"
+          }
+        },        
+        {
+          "name": "Rhode Island",
+          "abbreviation": "RHO",
+          "prestige": "25",
+          "hexColor": "68ABE8",
+          "state": "Rhode Island",
+          "rival": "UNH",
+          "headCoach": 
+          {
+            "name": "Donte Puna",
+            "age": "42",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Utah",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "58",
+            "ratDef": "59",
+            "ratOff": "55",
+            "ratTalent": "60",
+            "ratDiscipline": "75",
+            "ratPot": "66"
+          }
+        },        
+        {
+          "name": "William & Mary",
+          "abbreviation": "WM",
+          "prestige": "25",
+          "hexColor": "115740",
+          "state": "Virginia",
+          "rival": "JAME",
+          "headCoach": 
+          {
+            "name": "Bailey Northcott",
+            "age": "30",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Arizona",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "59",
+            "ratDef": "46",
+            "ratOff": "40",
+            "ratTalent": "48",
+            "ratDiscipline": "74",
+            "ratPot": "78"
+          }
+        },        
+        {
+          "name": "New Hampshire",
+          "abbreviation": "UNH",
+          "prestige": "25",
+          "hexColor": "BBBCBC",
+          "state": "New Hampshire",
+          "rival": "RHO",
+          "headCoach": 
+          {
+            "name": "Kurt Laza",
+            "age": "33",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Vermont",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "66",
+            "ratDef": "47",
+            "ratOff": "41",
+            "ratTalent": "48",
+            "ratDiscipline": "89",
+            "ratPot": "76"
+          }
+        },        
+        {
+          "name": "Villanova",
+          "abbreviation": "NOVA",
+          "prestige": "25",
+          "hexColor": "00205B",
+          "state": "Pennsylvania",
+          "rival": "ELON",
+          "headCoach": 
+          {
+            "name": "Chase Dumpson",
+            "age": "35",
+            "startYear": "2019",
+            "contractYear": "0",
+            "contractLength": "7",
+            "homeState": "Nebraska",
+            "baselinePrestige": "20",
+            "cumulativePrestige": "0",
+            "ratOvr": "65",
+            "ratDef": "48",
+            "ratOff": "40",
+            "ratTalent": "49",
+            "ratDiscipline": "86",
+            "ratPot": "73"
           }
         }
       ]
